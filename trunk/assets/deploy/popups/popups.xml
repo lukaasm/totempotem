@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6bf1956811c5341fee66a3c3cb6c9c8e:1/1$ -->
+<TextureAtlas imagePath="popups.png">
+    <SubTexture name="Cleared lv1" x="2" y="818" width="707" height="376" frameX="-2" frameY="-39" frameWidth="775" frameHeight="418"/>
+    <SubTexture name="Cleared lv2" x="2" y="442" width="724" height="374" frameX="0" frameY="-37" frameWidth="806" frameHeight="414"/>
+    <SubTexture name="GameOver" x="2" y="2" width="748" height="438" frameX="-2" frameY="-101" frameWidth="856" frameHeight="544"/>
+    <SubTexture name="Pause" x="2" y="1606" width="594" height="299" frameX="-2" frameY="-27" frameWidth="730" frameHeight="335"/>
+    <SubTexture name="before boss fight" x="2" y="1196" width="700" height="408" frameX="-2" frameY="-68" frameWidth="766" frameHeight="478"/>
+    <SubTexture name="quit active" x="752" y="88" width="149" height="32" frameX="-8" frameY="-7" frameWidth="163" frameHeight="44"/>
+    <SubTexture name="quit chosen" x="752" y="122" width="143" height="30" frameX="-10" frameY="-7" frameWidth="163" frameHeight="44"/>
+    <SubTexture name="quit" x="752" y="203" width="141" height="28" frameX="-12" frameY="-8" frameWidth="163" frameHeight="44"/>
+    <SubTexture name="quit1" x="752" y="282" width="137" height="45" frameX="-14" frameY="-15" frameWidth="163" frameHeight="81"/>
+    <SubTexture name="quit2" x="752" y="233" width="137" height="47" frameX="-14" frameY="-15" frameWidth="163" frameHeight="81"/>
+    <SubTexture name="quit3" x="752" y="154" width="141" height="47" frameX="-12" frameY="-13" frameWidth="163" frameHeight="81"/>
+    <SubTexture name="resume active" x="903" y="88" width="114" height="26" frameX="-6" frameY="-9" frameWidth="126" frameHeight="44"/>
+    <SubTexture name="resume chosen" x="903" y="116" width="110" height="24" frameX="-9" frameY="-8" frameWidth="126" frameHeight="44"/>
+    <SubTexture name="resume" x="897" y="142" width="108" height="22" frameX="-10" frameY="-10" frameWidth="126" frameHeight="44"/>
+    <SubTexture name="start game" x="704" y="1328" width="312" height="59" frameX="-11" frameY="-13" frameWidth="342" frameHeight="81"/>
+    <SubTexture name="start game2" x="704" y="1261" width="312" height="65" frameX="-11" frameY="-8" frameWidth="342" frameHeight="81"/>
+    <SubTexture name="start game3" x="704" y="1196" width="316" height="63" frameX="-9" frameY="-11" frameWidth="342" frameHeight="81"/>
+    <SubTexture name="start level active" x="752" y="2" width="228" height="34" frameX="-10" frameY="-4" frameWidth="246" frameHeight="44"/>
+    <SubTexture name="start level chosen" x="752" y="38" width="216" height="24" frameX="-15" frameY="-9" frameWidth="246" frameHeight="44"/>
+    <SubTexture name="start level" x="752" y="64" width="214" height="22" frameX="-16" frameY="-11" frameWidth="246" frameHeight="44"/>
+    <SubTexture name="try again active" x="752" y="329" width="134" height="32" frameX="-11" frameY="-7" frameWidth="150" frameHeight="44"/>
+    <SubTexture name="try again chosen" x="891" y="233" width="128" height="30" frameX="-9" frameY="-9" frameWidth="150" frameHeight="44"/>
+    <SubTexture name="try again" x="895" y="166" width="126" height="28" frameX="-10" frameY="-10" frameWidth="150" frameHeight="44"/>
+</TextureAtlas>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c49459175f27ed87c4d617143036caa6:1/2$ -->
+<TextureAtlas imagePath="level_earth_0.png">
+    <SubTexture name="double_block_open_2_07" x="1620" y="518" width="168" height="84"/>
+    <SubTexture name="double_block_open_2_08" x="1834" y="600" width="168" height="84"/>
+    <SubTexture name="double_block_open_2_09" x="1620" y="604" width="168" height="84"/>
+    <SubTexture name="double_block_open_2_10" x="1620" y="690" width="168" height="84"/>
+    <SubTexture name="double_block_open_2_11" x="1620" y="776" width="168" height="84"/>
+    <SubTexture name="double_block_open_2_12" x="1616" y="1550" width="168" height="84"/>
+    <SubTexture name="double_block_open_2_13" x="1616" y="1636" width="168" height="84"/>
+    <SubTexture name="double_block_open_2_14" x="1616" y="1722" width="168" height="84"/>
+    <SubTexture name="double_block_open_2_15" x="1616" y="1808" width="168" height="84"/>
+    <SubTexture name="double_block_open_2_16" x="1786" y="1890" width="168" height="84"/>
+    <SubTexture name="double_block_open_2_17" x="1362" y="1894" width="168" height="84"/>
+    <SubTexture name="double_block_open_2_18" x="1532" y="1894" width="168" height="84"/>
+    <SubTexture name="finishing block left" x="1780" y="432" width="42" height="84"/>
+    <SubTexture name="finishing block right" x="1790" y="518" width="42" height="84"/>
+    <SubTexture name="quadruple_block_1 (02)" x="2" y="2" width="336" height="84"/>
+    <SubTexture name="quadruple_block_1 (03)" x="2" y="2" width="336" height="84"/>
+    <SubTexture name="quadruple_block_1 (04)" x="2" y="2" width="336" height="84"/>
+    <SubTexture name="quadruple_block_1 (05)" x="2" y="2" width="336" height="84"/>
+    <SubTexture name="quadruple_block_1 (06)" x="2" y="2" width="336" height="84"/>
+    <SubTexture name="quadruple_block_1 (07)" x="2" y="2" width="336" height="84"/>
+    <SubTexture name="quadruple_block_1 (08)" x="340" y="2" width="336" height="84"/>
+    <SubTexture name="quadruple_block_1 (09)" x="678" y="2" width="336" height="84"/>
+    <SubTexture name="quadruple_block_1 (10)" x="1016" y="2" width="336" height="84"/>
+    <SubTexture name="quadruple_block_1 (11)" x="1354" y="2" width="336" height="84"/>
+    <SubTexture name="quadruple_block_1 (12)" x="1692" y="2" width="336" height="84"/>
+    <SubTexture name="quadruple_block_1 (13)" x="2" y="88" width="336" height="84"/>
+    <SubTexture name="quadruple_block_1 (14)" x="340" y="88" width="336" height="84"/>
+    <SubTexture name="quadruple_block_1 (15)" x="678" y="88" width="336" height="84"/>
+    <SubTexture name="quadruple_block_1 (16)" x="1016" y="88" width="336" height="84"/>
+    <SubTexture name="quadruple_block_1 (17)" x="1354" y="88" width="336" height="84"/>
+    <SubTexture name="quadruple_block_1 (18)" x="1692" y="88" width="336" height="84"/>
+    <SubTexture name="quadruple_block_1 (19)" x="2" y="174" width="336" height="84"/>
+    <SubTexture name="quadruple_block_1 (20)" x="340" y="174" width="336" height="84"/>
+    <SubTexture name="quadruple_block_1" x="340" y="174" width="336" height="84"/>
+    <SubTexture name="quadruple_block_2 (02)" x="678" y="174" width="336" height="84"/>
+    <SubTexture name="quadruple_block_2 (03)" x="678" y="174" width="336" height="84"/>
+    <SubTexture name="quadruple_block_2 (04)" x="678" y="174" width="336" height="84"/>
+    <SubTexture name="quadruple_block_2 (05)" x="678" y="174" width="336" height="84"/>
+    <SubTexture name="quadruple_block_2 (06)" x="678" y="174" width="336" height="84"/>
+    <SubTexture name="quadruple_block_2 (07)" x="678" y="174" width="336" height="84"/>
+    <SubTexture name="quadruple_block_2 (08)" x="1016" y="174" width="336" height="84"/>
+    <SubTexture name="quadruple_block_2 (09)" x="1354" y="174" width="336" height="84"/>
+    <SubTexture name="quadruple_block_2 (10)" x="1692" y="174" width="336" height="84"/>
+    <SubTexture name="quadruple_block_2 (11)" x="2" y="260" width="336" height="84"/>
+    <SubTexture name="quadruple_block_2 (12)" x="340" y="260" width="336" height="84"/>
+    <SubTexture name="quadruple_block_2 (13)" x="678" y="260" width="336" height="84"/>
+    <SubTexture name="quadruple_block_2 (14)" x="1016" y="260" width="336" height="84"/>
+    <SubTexture name="quadruple_block_2 (15)" x="1354" y="260" width="336" height="84"/>
+    <SubTexture name="quadruple_block_2 (16)" x="1692" y="260" width="336" height="84"/>
+    <SubTexture name="quadruple_block_2 (17)" x="2" y="346" width="336" height="84"/>
+    <SubTexture name="quadruple_block_2 (18)" x="340" y="346" width="336" height="84"/>
+    <SubTexture name="quadruple_block_2 (19)" x="678" y="346" width="336" height="84"/>
+    <SubTexture name="quadruple_block_2 (20)" x="1016" y="346" width="336" height="84"/>
+    <SubTexture name="quadruple_block_2" x="1016" y="346" width="336" height="84"/>
+    <SubTexture name="single_block_4 (19)" x="1956" y="1890" width="84" height="84"/>
+    <SubTexture name="single_block_4" x="1956" y="1890" width="84" height="84"/>
+    <SubTexture name="triple_block_1 (01)" x="1354" y="346" width="252" height="84"/>
+    <SubTexture name="triple_block_1 (02)" x="1354" y="346" width="252" height="84"/>
+    <SubTexture name="triple_block_1 (03)" x="1354" y="346" width="252" height="84"/>
+    <SubTexture name="triple_block_1 (04)" x="1354" y="346" width="252" height="84"/>
+    <SubTexture name="triple_block_1 (05)" x="1354" y="346" width="252" height="84"/>
+    <SubTexture name="triple_block_1 (06)" x="1354" y="346" width="252" height="84"/>
+    <SubTexture name="triple_block_1 (07)" x="1608" y="346" width="252" height="84"/>
+    <SubTexture name="triple_block_1 (08)" x="2" y="432" width="252" height="84"/>
+    <SubTexture name="triple_block_1 (09)" x="2" y="1870" width="252" height="84"/>
+    <SubTexture name="triple_block_1 (10)" x="2" y="1956" width="252" height="84"/>
+    <SubTexture name="triple_block_1 (11)" x="256" y="432" width="252" height="84"/>
+    <SubTexture name="triple_block_1 (12)" x="510" y="432" width="252" height="84"/>
+    <SubTexture name="triple_block_1 (13)" x="518" y="1026" width="252" height="84"/>
+    <SubTexture name="triple_block_1 (14)" x="604" y="600" width="252" height="84"/>
+    <SubTexture name="triple_block_1 (15)" x="764" y="432" width="252" height="84"/>
+    <SubTexture name="triple_block_1 (16)" x="604" y="686" width="252" height="84"/>
+    <SubTexture name="triple_block_1 (17)" x="604" y="772" width="252" height="84"/>
+    <SubTexture name="triple_block_1 (18)" x="604" y="858" width="252" height="84"/>
+    <SubTexture name="triple_block_1 (19)" x="518" y="1112" width="252" height="84"/>
+    <SubTexture name="triple_block_1" x="518" y="1112" width="252" height="84"/>
+    <SubTexture name="triple_block_2 (01)" x="518" y="1198" width="252" height="84"/>
+    <SubTexture name="triple_block_2 (02)" x="518" y="1198" width="252" height="84"/>
+    <SubTexture name="triple_block_2 (03)" x="518" y="1198" width="252" height="84"/>
+    <SubTexture name="triple_block_2 (04)" x="518" y="1198" width="252" height="84"/>
+    <SubTexture name="triple_block_2 (05)" x="518" y="1198" width="252" height="84"/>
+    <SubTexture name="triple_block_2 (06)" x="518" y="1198" width="252" height="84"/>
+    <SubTexture name="triple_block_2 (07)" x="518" y="1284" width="252" height="84"/>
+    <SubTexture name="triple_block_2 (08)" x="518" y="1370" width="252" height="84"/>
+    <SubTexture name="triple_block_2 (09)" x="518" y="1456" width="252" height="84"/>
+    <SubTexture name="triple_block_2 (10)" x="518" y="1542" width="252" height="84"/>
+    <SubTexture name="triple_block_2 (11)" x="518" y="1628" width="252" height="84"/>
+    <SubTexture name="triple_block_2 (12)" x="600" y="1714" width="252" height="84"/>
+    <SubTexture name="triple_block_2 (13)" x="600" y="1800" width="252" height="84"/>
+    <SubTexture name="triple_block_2 (14)" x="600" y="1886" width="252" height="84"/>
+    <SubTexture name="triple_block_2 (15)" x="772" y="944" width="252" height="84"/>
+    <SubTexture name="triple_block_2 (16)" x="858" y="600" width="252" height="84"/>
+    <SubTexture name="triple_block_2 (17)" x="1018" y="432" width="252" height="84"/>
+    <SubTexture name="triple_block_2 (18)" x="858" y="686" width="252" height="84"/>
+    <SubTexture name="triple_block_2 (19)" x="858" y="772" width="252" height="84"/>
+    <SubTexture name="triple_block_2" x="858" y="772" width="252" height="84"/>
+    <SubTexture name="triple_block_3 (01)" x="858" y="858" width="252" height="84"/>
+    <SubTexture name="triple_block_3 (02)" x="858" y="858" width="252" height="84"/>
+    <SubTexture name="triple_block_3 (03)" x="858" y="858" width="252" height="84"/>
+    <SubTexture name="triple_block_3 (04)" x="858" y="858" width="252" height="84"/>
+    <SubTexture name="triple_block_3 (05)" x="858" y="858" width="252" height="84"/>
+    <SubTexture name="triple_block_3 (06)" x="858" y="858" width="252" height="84"/>
+    <SubTexture name="triple_block_3 (07)" x="772" y="1030" width="252" height="84"/>
+    <SubTexture name="triple_block_3 (08)" x="772" y="1116" width="252" height="84"/>
+    <SubTexture name="triple_block_3 (09)" x="772" y="1202" width="252" height="84"/>
+    <SubTexture name="triple_block_3 (10)" x="772" y="1288" width="252" height="84"/>
+    <SubTexture name="triple_block_3 (11)" x="772" y="1374" width="252" height="84"/>
+    <SubTexture name="triple_block_3 (12)" x="772" y="1460" width="252" height="84"/>
+    <SubTexture name="triple_block_3 (13)" x="772" y="1546" width="252" height="84"/>
+    <SubTexture name="triple_block_3 (14)" x="854" y="1632" width="252" height="84"/>
+    <SubTexture name="triple_block_3 (15)" x="854" y="1718" width="252" height="84"/>
+    <SubTexture name="triple_block_3 (16)" x="854" y="1804" width="252" height="84"/>
+    <SubTexture name="triple_block_3 (17)" x="854" y="1890" width="252" height="84"/>
+    <SubTexture name="triple_block_3 (18)" x="1026" y="944" width="252" height="84"/>
+    <SubTexture name="triple_block_3 (19)" x="1272" y="432" width="252" height="84"/>
+    <SubTexture name="triple_block_3" x="1272" y="432" width="252" height="84"/>
+    <SubTexture name="triple_block_open_1" x="1112" y="518" width="252" height="84"/>
+    <SubTexture name="triple_block_open_1_01" x="1112" y="604" width="252" height="84"/>
+    <SubTexture name="triple_block_open_1_02" x="1112" y="604" width="252" height="84"/>
+    <SubTexture name="triple_block_open_1_03" x="1112" y="604" width="252" height="84"/>
+    <SubTexture name="triple_block_open_1_04" x="1112" y="604" width="252" height="84"/>
+    <SubTexture name="triple_block_open_1_05" x="1112" y="604" width="252" height="84"/>
+    <SubTexture name="triple_block_open_1_06" x="1112" y="604" width="252" height="84"/>
+    <SubTexture name="triple_block_open_1_07" x="1112" y="690" width="252" height="84"/>
+    <SubTexture name="triple_block_open_1_08" x="1112" y="776" width="252" height="84"/>
+    <SubTexture name="triple_block_open_1_09" x="1526" y="432" width="252" height="84"/>
+    <SubTexture name="triple_block_open_1_10" x="1026" y="1030" width="252" height="84"/>
+    <SubTexture name="triple_block_open_1_11" x="1026" y="1116" width="252" height="84"/>
+    <SubTexture name="triple_block_open_1_12" x="1026" y="1202" width="252" height="84"/>
+    <SubTexture name="triple_block_open_1_13" x="1026" y="1288" width="252" height="84"/>
+    <SubTexture name="triple_block_open_1_14" x="1026" y="1374" width="252" height="84"/>
+    <SubTexture name="triple_block_open_1_15" x="1026" y="1460" width="252" height="84"/>
+    <SubTexture name="triple_block_open_1_16" x="1026" y="1546" width="252" height="84"/>
+    <SubTexture name="triple_block_open_1_17" x="1108" y="1632" width="252" height="84"/>
+    <SubTexture name="triple_block_open_1_18" x="1108" y="1718" width="252" height="84"/>
+    <SubTexture name="triple_block_open_1_19" x="1112" y="518" width="252" height="84"/>
+    <SubTexture name="triple_block_open_2" x="1108" y="1804" width="252" height="84"/>
+    <SubTexture name="triple_block_open_2_01" x="1108" y="1890" width="252" height="84"/>
+    <SubTexture name="triple_block_open_2_02" x="1108" y="1890" width="252" height="84"/>
+    <SubTexture name="triple_block_open_2_03" x="1108" y="1890" width="252" height="84"/>
+    <SubTexture name="triple_block_open_2_04" x="1108" y="1890" width="252" height="84"/>
+    <SubTexture name="triple_block_open_2_05" x="1108" y="1890" width="252" height="84"/>
+    <SubTexture name="triple_block_open_2_06" x="1108" y="1890" width="252" height="84"/>
+    <SubTexture name="triple_block_open_2_07" x="1108" y="1890" width="252" height="84"/>
+    <SubTexture name="triple_block_open_2_08" x="1280" y="862" width="252" height="84"/>
+    <SubTexture name="triple_block_open_2_09" x="1366" y="518" width="252" height="84"/>
+    <SubTexture name="triple_block_open_2_10" x="1366" y="604" width="252" height="84"/>
+    <SubTexture name="triple_block_open_2_11" x="1366" y="690" width="252" height="84"/>
+    <SubTexture name="triple_block_open_2_12" x="1366" y="776" width="252" height="84"/>
+    <SubTexture name="triple_block_open_2_13" x="1790" y="686" width="252" height="84"/>
+    <SubTexture name="triple_block_open_2_14" x="1790" y="772" width="252" height="84"/>
+    <SubTexture name="triple_block_open_2_15" x="1790" y="858" width="252" height="84"/>
+    <SubTexture name="triple_block_open_2_16" x="1534" y="862" width="252" height="84"/>
+    <SubTexture name="triple_block_open_2_17" x="1788" y="944" width="252" height="84"/>
+    <SubTexture name="triple_block_open_2_18" x="1280" y="948" width="252" height="84"/>
+    <SubTexture name="triple_block_open_2_19" x="1108" y="1804" width="252" height="84"/>
+    <SubTexture name="triple_block_open_3" x="1534" y="948" width="252" height="84"/>
+    <SubTexture name="triple_block_open_3_01" x="1788" y="1030" width="252" height="84"/>
+    <SubTexture name="triple_block_open_3_02" x="1788" y="1030" width="252" height="84"/>
+    <SubTexture name="triple_block_open_3_03" x="1788" y="1030" width="252" height="84"/>
+    <SubTexture name="triple_block_open_3_04" x="1788" y="1030" width="252" height="84"/>
+    <SubTexture name="triple_block_open_3_05" x="1788" y="1030" width="252" height="84"/>
+    <SubTexture name="triple_block_open_3_06" x="1788" y="1030" width="252" height="84"/>
+    <SubTexture name="triple_block_open_3_07" x="1280" y="1034" width="252" height="84"/>
+    <SubTexture name="triple_block_open_3_08" x="1534" y="1034" width="252" height="84"/>
+    <SubTexture name="triple_block_open_3_09" x="1788" y="1116" width="252" height="84"/>
+    <SubTexture name="triple_block_open_3_10" x="1280" y="1120" width="252" height="84"/>
+    <SubTexture name="triple_block_open_3_11" x="1534" y="1120" width="252" height="84"/>
+    <SubTexture name="triple_block_open_3_12" x="1788" y="1202" width="252" height="84"/>
+    <SubTexture name="triple_block_open_3_13" x="1280" y="1206" width="252" height="84"/>
+    <SubTexture name="triple_block_open_3_14" x="1534" y="1206" width="252" height="84"/>
+    <SubTexture name="triple_block_open_3_15" x="1788" y="1288" width="252" height="84"/>
+    <SubTexture name="triple_block_open_3_16" x="1280" y="1292" width="252" height="84"/>
+    <SubTexture name="triple_block_open_3_17" x="1534" y="1292" width="252" height="84"/>
+    <SubTexture name="triple_block_open_3_18" x="1788" y="1374" width="252" height="84"/>
+    <SubTexture name="triple_block_open_3_19" x="1534" y="948" width="252" height="84"/>
+    <SubTexture name="triple_block_open_4" x="1280" y="1378" width="252" height="84"/>
+    <SubTexture name="triple_block_open_4_01" x="1280" y="1464" width="252" height="84"/>
+    <SubTexture name="triple_block_open_4_02" x="1280" y="1464" width="252" height="84"/>
+    <SubTexture name="triple_block_open_4_03" x="1280" y="1464" width="252" height="84"/>
+    <SubTexture name="triple_block_open_4_04" x="1280" y="1464" width="252" height="84"/>
+    <SubTexture name="triple_block_open_4_05" x="1280" y="1464" width="252" height="84"/>
+    <SubTexture name="triple_block_open_4_06" x="1280" y="1464" width="252" height="84"/>
+    <SubTexture name="triple_block_open_4_07" x="1280" y="1464" width="252" height="84"/>
+    <SubTexture name="triple_block_open_4_08" x="1534" y="1378" width="252" height="84"/>
+    <SubTexture name="triple_block_open_4_09" x="1788" y="1460" width="252" height="84"/>
+    <SubTexture name="triple_block_open_4_10" x="1534" y="1464" width="252" height="84"/>
+    <SubTexture name="triple_block_open_4_11" x="1788" y="1546" width="252" height="84"/>
+    <SubTexture name="triple_block_open_4_12" x="1362" y="1550" width="252" height="84"/>
+    <SubTexture name="triple_block_open_4_13" x="1786" y="1632" width="252" height="84"/>
+    <SubTexture name="triple_block_open_4_14" x="1362" y="1636" width="252" height="84"/>
+    <SubTexture name="triple_block_open_4_15" x="1786" y="1718" width="252" height="84"/>
+    <SubTexture name="triple_block_open_4_16" x="1362" y="1722" width="252" height="84"/>
+    <SubTexture name="triple_block_open_4_17" x="1786" y="1804" width="252" height="84"/>
+    <SubTexture name="triple_block_open_4_18" x="1362" y="1808" width="252" height="84"/>
+    <SubTexture name="triple_block_open_4_19" x="1280" y="1378" width="252" height="84"/>
+    <SubTexture name="triple_block_vertical_1 (02)" x="1862" y="346" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_1 (03)" x="1948" y="346" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_1 (04)" x="2" y="600" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_1 (05)" x="2" y="854" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_1 (06)" x="2" y="1108" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_1 (07)" x="2" y="1362" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_1 (08)" x="2" y="1616" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_1 (09)" x="88" y="518" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_1 (10)" x="88" y="772" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_1 (11)" x="88" y="1026" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_1 (12)" x="88" y="1280" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_1 (13)" x="88" y="1534" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_1 (14)" x="174" y="518" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_1 (15)" x="174" y="772" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_1 (16)" x="174" y="1026" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_1 (17)" x="174" y="1280" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_1 (18)" x="174" y="1534" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_1 (19)" x="256" y="1788" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_1 (20)" x="260" y="518" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_1" x="260" y="518" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_2 (02)" x="260" y="772" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_2 (03)" x="260" y="1026" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_2 (04)" x="260" y="1280" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_2 (05)" x="260" y="1534" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_2 (06)" x="342" y="1788" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_2 (07)" x="346" y="518" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_2 (08)" x="346" y="772" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_2 (09)" x="346" y="1026" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_2 (10)" x="346" y="1280" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_2 (11)" x="346" y="1534" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_2 (12)" x="428" y="1788" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_2 (13)" x="432" y="518" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_2 (14)" x="432" y="772" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_2 (15)" x="432" y="1026" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_2 (16)" x="432" y="1280" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_2 (17)" x="432" y="1534" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_2 (18)" x="514" y="1788" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_2 (19)" x="518" y="518" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_2 (20)" x="518" y="772" width="84" height="252"/>
+    <SubTexture name="triple_block_vertical_2" x="518" y="772" width="84" height="252"/>
+</TextureAtlas>

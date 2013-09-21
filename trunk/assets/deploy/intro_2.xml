@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f0f13060baa4a42c5b5406f079863643:3/3$ -->
+<TextureAtlas imagePath="intro_2.png">
+    <SubTexture name="cloud" x="0" y="1362" width="998" height="607"/>
+    <SubTexture name="ending_1" x="0" y="0" width="1024" height="682"/>
+    <SubTexture name="ending_2" x="1024" y="0" width="1024" height="682"/>
+    <SubTexture name="intro_02" x="0" y="682" width="1024" height="680" frameX="0" frameY="0" frameWidth="1024" frameHeight="682"/>
+    <SubTexture name="intro_04" x="1024" y="682" width="1024" height="680" frameX="0" frameY="0" frameWidth="1024" frameHeight="682"/>
+    <SubTexture name="nextbutton" x="0" y="1969" width="165" height="70" frameX="-10" frameY="-14" frameWidth="181" frameHeight="100"/>
+    <SubTexture name="skip button" x="998" y="1362" width="181" height="86" frameX="-2" frameY="-14" frameWidth="187" frameHeight="100"/>
+</TextureAtlas>

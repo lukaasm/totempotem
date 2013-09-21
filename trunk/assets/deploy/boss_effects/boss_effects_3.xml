@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:62b0d99973ac1e527d48cfc17bc3d5f6:4/4$ -->
+<TextureAtlas imagePath="boss_effects_3.png">
+    <SubTexture name="clouds start 013" x="1032" y="358" width="1014" height="290" frameX="-49" frameY="-456" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 014" x="1028" y="1365" width="1016" height="300" frameX="-48" frameY="-448" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 015" x="1028" y="1054" width="1018" height="310" frameX="-47" frameY="-441" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 016" x="1026" y="1666" width="1020" height="316" frameX="-47" frameY="-435" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 017" x="1" y="1722" width="1022" height="322" frameX="-46" frameY="-428" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 018" x="1" y="1391" width="1024" height="330" frameX="-45" frameY="-420" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 019" x="1" y="1054" width="1026" height="336" frameX="-44" frameY="-414" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 020" x="1" y="709" width="1030" height="344" frameX="-42" frameY="-406" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 021" x="1" y="358" width="1030" height="350" frameX="-42" frameY="-400" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 022" x="1" y="1" width="1034" height="356" frameX="-38" frameY="-394" frameWidth="1118" frameHeight="768"/>
+</TextureAtlas>

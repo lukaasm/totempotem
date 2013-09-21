@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0ba9e639f5bd75dc318addecad4071d0:1/1$ -->
+<TextureAtlas imagePath="player.png">
+    <SubTexture name="HUD air totem 1" x="1422" y="1324" width="119" height="45" frameX="-9" frameY="-6" frameWidth="137" frameHeight="57"/>
+    <SubTexture name="HUD air totem 2" x="1303" y="1324" width="117" height="45" frameX="-10" frameY="-6" frameWidth="137" frameHeight="57"/>
+    <SubTexture name="HUD air totem 3" x="1182" y="1324" width="119" height="45" frameX="-9" frameY="-6" frameWidth="137" frameHeight="57"/>
+    <SubTexture name="HUD ammo air" x="1144" y="1324" width="36" height="35" frameX="-8" frameY="-11" frameWidth="52" frameHeight="57"/>
+    <SubTexture name="HUD ammo earth" x="1106" y="1324" width="36" height="35" frameX="-8" frameY="-11" frameWidth="52" frameHeight="57"/>
+    <SubTexture name="HUD ammo fire" x="1064" y="1324" width="40" height="37" frameX="-6" frameY="-10" frameWidth="52" frameHeight="57"/>
+    <SubTexture name="HUD ammo water" x="1030" y="1324" width="32" height="39" frameX="-10" frameY="-8" frameWidth="52" frameHeight="57"/>
+    <SubTexture name="HUD body" x="2" y="1324" width="1026" height="57"/>
+    <SubTexture name="HUD bubble" x="1417" y="1265" width="38" height="37" frameX="-7" frameY="-10" frameWidth="52" frameHeight="57"/>
+    <SubTexture name="HUD earth totem 1" x="1380" y="1265" width="35" height="45" frameX="-11" frameY="-6" frameWidth="57" frameHeight="57"/>
+    <SubTexture name="HUD earth totem 2" x="1343" y="1265" width="35" height="45" frameX="-11" frameY="-6" frameWidth="57" frameHeight="57"/>
+    <SubTexture name="HUD fire totem 1" x="1304" y="1265" width="37" height="45" frameX="-10" frameY="-6" frameWidth="57" frameHeight="57"/>
+    <SubTexture name="HUD fire totem 2" x="1265" y="1265" width="37" height="45" frameX="-10" frameY="-6" frameWidth="57" frameHeight="57"/>
+    <SubTexture name="HUD fire totem 3" x="1226" y="1265" width="37" height="45" frameX="-10" frameY="-6" frameWidth="57" frameHeight="57"/>
+    <SubTexture name="HUD life" x="1176" y="1265" width="48" height="37" frameX="-2" frameY="-10" frameWidth="52" frameHeight="57"/>
+    <SubTexture name="HUD menu" x="1117" y="1265" width="57" height="57"/>
+    <SubTexture name="HUD no bubble" x="1077" y="1265" width="38" height="37" frameX="-7" frameY="-10" frameWidth="52" frameHeight="57"/>
+    <SubTexture name="HUD no life" x="1029" y="1265" width="46" height="37" frameX="-3" frameY="-10" frameWidth="52" frameHeight="57"/>
+    <SubTexture name="HUD sound off" x="998" y="1265" width="29" height="33" frameX="-10" frameY="-12" frameWidth="57" frameHeight="57"/>
+    <SubTexture name="HUD sound" x="961" y="1265" width="35" height="37" frameX="-11" frameY="-10" frameWidth="57" frameHeight="57"/>
+    <SubTexture name="HUD water totem 1" x="870" y="1265" width="89" height="45" frameX="-9" frameY="-6" frameWidth="107" frameHeight="57"/>
+    <SubTexture name="HUD water totem 2" x="779" y="1265" width="89" height="45" frameX="-8" frameY="-6" frameWidth="107" frameHeight="57"/>
+    <SubTexture name="HUD water totem 3" x="688" y="1265" width="89" height="45" frameX="-9" frameY="-6" frameWidth="107" frameHeight="57"/>
+    <SubTexture name="ammo_air" x="639" y="1265" width="47" height="49" frameX="-54" frameY="-53" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_01" x="590" y="1265" width="47" height="47" frameX="-54" frameY="-54" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_02" x="541" y="1265" width="47" height="49" frameX="-54" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_03" x="492" y="1265" width="47" height="49" frameX="-54" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_04" x="639" y="1265" width="47" height="49" frameX="-54" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_05" x="443" y="1265" width="47" height="47" frameX="-54" frameY="-53" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_06" x="394" y="1265" width="47" height="49" frameX="-54" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_07" x="345" y="1265" width="47" height="49" frameX="-54" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_08" x="296" y="1265" width="47" height="49" frameX="-54" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_09" x="247" y="1265" width="47" height="47" frameX="-54" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_10" x="198" y="1265" width="47" height="49" frameX="-54" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_11" x="149" y="1265" width="47" height="49" frameX="-54" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_12" x="100" y="1265" width="47" height="49" frameX="-54" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_13" x="51" y="1265" width="47" height="47" frameX="-54" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_14" x="2" y="1265" width="47" height="49" frameX="-54" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_15" x="1977" y="1212" width="47" height="49" frameX="-54" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_16" x="1928" y="1212" width="47" height="49" frameX="-54" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_17" x="1879" y="1212" width="47" height="49" frameX="-54" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_18" x="1830" y="1212" width="47" height="49" frameX="-54" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_19" x="1781" y="1212" width="47" height="49" frameX="-54" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_20" x="590" y="1265" width="47" height="47" frameX="-54" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_21" x="639" y="1265" width="47" height="49" frameX="-54" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_22" x="492" y="1265" width="47" height="49" frameX="-54" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_23" x="541" y="1265" width="47" height="49" frameX="-54" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_24" x="590" y="1265" width="47" height="47" frameX="-54" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_25" x="639" y="1265" width="47" height="49" frameX="-54" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_26" x="492" y="1265" width="47" height="49" frameX="-54" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_27" x="541" y="1265" width="47" height="49" frameX="-54" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_28" x="541" y="1265" width="47" height="49" frameX="-54" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_29" x="590" y="1265" width="47" height="47" frameX="-54" frameY="-53" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_30" x="639" y="1265" width="47" height="49" frameX="-54" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_31" x="492" y="1265" width="47" height="49" frameX="-54" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_32" x="541" y="1265" width="47" height="49" frameX="-54" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_33" x="590" y="1265" width="47" height="47" frameX="-54" frameY="-54" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_34" x="639" y="1265" width="47" height="49" frameX="-54" frameY="-53" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_35" x="590" y="1265" width="47" height="47" frameX="-54" frameY="-54" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_36" x="541" y="1265" width="47" height="49" frameX="-54" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_37" x="492" y="1265" width="47" height="49" frameX="-54" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_38" x="639" y="1265" width="47" height="49" frameX="-54" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_39" x="590" y="1265" width="47" height="47" frameX="-54" frameY="-53" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_40" x="541" y="1265" width="47" height="49" frameX="-54" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_41" x="492" y="1265" width="47" height="49" frameX="-54" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_42" x="639" y="1265" width="47" height="49" frameX="-54" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_43" x="590" y="1265" width="47" height="47" frameX="-54" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_44" x="541" y="1265" width="47" height="49" frameX="-54" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_45" x="492" y="1265" width="47" height="49" frameX="-54" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_46" x="492" y="1265" width="47" height="49" frameX="-54" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_47" x="639" y="1265" width="47" height="49" frameX="-54" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_48" x="590" y="1265" width="47" height="47" frameX="-54" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_49" x="541" y="1265" width="47" height="49" frameX="-54" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_50" x="492" y="1265" width="47" height="49" frameX="-54" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_51" x="639" y="1265" width="47" height="49" frameX="-54" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_52" x="492" y="1265" width="47" height="49" frameX="-54" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_53" x="541" y="1265" width="47" height="49" frameX="-54" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_54" x="541" y="1265" width="47" height="49" frameX="-54" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_55" x="590" y="1265" width="47" height="47" frameX="-54" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_56" x="639" y="1265" width="47" height="49" frameX="-54" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_57" x="492" y="1265" width="47" height="49" frameX="-54" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_58" x="541" y="1265" width="47" height="49" frameX="-54" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_59" x="590" y="1265" width="47" height="47" frameX="-54" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_60" x="639" y="1265" width="47" height="49" frameX="-54" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_61" x="492" y="1265" width="47" height="49" frameX="-54" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_62" x="541" y="1265" width="47" height="49" frameX="-54" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_63" x="541" y="1265" width="47" height="49" frameX="-54" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_64" x="590" y="1265" width="47" height="47" frameX="-54" frameY="-53" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_65" x="639" y="1265" width="47" height="49" frameX="-54" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_66" x="492" y="1265" width="47" height="49" frameX="-54" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_67" x="541" y="1265" width="47" height="49" frameX="-54" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_68" x="590" y="1265" width="47" height="47" frameX="-54" frameY="-54" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_air_69" x="639" y="1265" width="47" height="49" frameX="-54" frameY="-53" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth" x="1728" y="1212" width="51" height="49" frameX="-52" frameY="-53" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_01" x="1675" y="1212" width="51" height="49" frameX="-52" frameY="-53" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_02" x="1622" y="1212" width="51" height="49" frameX="-52" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_03" x="1569" y="1212" width="51" height="49" frameX="-52" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_04" x="1728" y="1212" width="51" height="49" frameX="-52" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_05" x="1516" y="1212" width="51" height="49" frameX="-52" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_06" x="1463" y="1212" width="51" height="49" frameX="-52" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_07" x="1410" y="1212" width="51" height="49" frameX="-52" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_08" x="1357" y="1212" width="51" height="49" frameX="-52" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_09" x="1304" y="1212" width="51" height="49" frameX="-52" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_10" x="1251" y="1212" width="51" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_11" x="1198" y="1212" width="51" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_12" x="1145" y="1212" width="51" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_13" x="1092" y="1212" width="51" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_14" x="1039" y="1212" width="51" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_15" x="986" y="1212" width="51" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_16" x="933" y="1212" width="51" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_17" x="880" y="1212" width="51" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_18" x="827" y="1212" width="51" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_19" x="827" y="1212" width="51" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_20" x="1675" y="1212" width="51" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_21" x="1728" y="1212" width="51" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_22" x="1569" y="1212" width="51" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_23" x="1622" y="1212" width="51" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_24" x="1675" y="1212" width="51" height="49" frameX="-52" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_25" x="1728" y="1212" width="51" height="49" frameX="-52" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_26" x="1569" y="1212" width="51" height="49" frameX="-52" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_27" x="1622" y="1212" width="51" height="49" frameX="-52" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_28" x="1622" y="1212" width="51" height="49" frameX="-52" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_29" x="1675" y="1212" width="51" height="49" frameX="-52" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_30" x="1728" y="1212" width="51" height="49" frameX="-52" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_31" x="1569" y="1212" width="51" height="49" frameX="-52" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_32" x="1622" y="1212" width="51" height="49" frameX="-52" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_33" x="1675" y="1212" width="51" height="49" frameX="-52" frameY="-53" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_34" x="1728" y="1212" width="51" height="49" frameX="-52" frameY="-53" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_35" x="1675" y="1212" width="51" height="49" frameX="-52" frameY="-53" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_36" x="1622" y="1212" width="51" height="49" frameX="-52" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_37" x="1569" y="1212" width="51" height="49" frameX="-52" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_38" x="1728" y="1212" width="51" height="49" frameX="-52" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_39" x="1675" y="1212" width="51" height="49" frameX="-52" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_40" x="1622" y="1212" width="51" height="49" frameX="-52" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_41" x="1569" y="1212" width="51" height="49" frameX="-52" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_42" x="1728" y="1212" width="51" height="49" frameX="-52" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_43" x="1675" y="1212" width="51" height="49" frameX="-52" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_44" x="1622" y="1212" width="51" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_45" x="1569" y="1212" width="51" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_46" x="1569" y="1212" width="51" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_47" x="1728" y="1212" width="51" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_48" x="1675" y="1212" width="51" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_49" x="1622" y="1212" width="51" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_50" x="1569" y="1212" width="51" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_51" x="1728" y="1212" width="51" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_52" x="1569" y="1212" width="51" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_53" x="1622" y="1212" width="51" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_54" x="1622" y="1212" width="51" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_55" x="1675" y="1212" width="51" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_56" x="1728" y="1212" width="51" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_57" x="1569" y="1212" width="51" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_58" x="1622" y="1212" width="51" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_59" x="1675" y="1212" width="51" height="49" frameX="-52" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_60" x="1728" y="1212" width="51" height="49" frameX="-52" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_61" x="1569" y="1212" width="51" height="49" frameX="-52" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_62" x="1622" y="1212" width="51" height="49" frameX="-52" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_63" x="1622" y="1212" width="51" height="49" frameX="-52" frameY="-51" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_64" x="1675" y="1212" width="51" height="49" frameX="-52" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_65" x="1728" y="1212" width="51" height="49" frameX="-52" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_66" x="1569" y="1212" width="51" height="49" frameX="-52" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_67" x="1622" y="1212" width="51" height="49" frameX="-52" frameY="-52" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_68" x="1675" y="1212" width="51" height="49" frameX="-52" frameY="-53" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_earth_69" x="1728" y="1212" width="51" height="49" frameX="-52" frameY="-53" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire" x="772" y="1212" width="53" height="51" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_01" x="717" y="1212" width="53" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_02" x="662" y="1212" width="53" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_03" x="607" y="1212" width="53" height="51" frameX="-52" frameY="-48" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_04" x="772" y="1212" width="53" height="51" frameX="-52" frameY="-48" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_05" x="552" y="1212" width="53" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_06" x="497" y="1212" width="53" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_07" x="442" y="1212" width="53" height="51" frameX="-52" frameY="-47" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_08" x="387" y="1212" width="53" height="51" frameX="-52" frameY="-47" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_09" x="332" y="1212" width="53" height="49" frameX="-52" frameY="-48" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_10" x="277" y="1212" width="53" height="49" frameX="-52" frameY="-48" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_11" x="222" y="1212" width="53" height="51" frameX="-52" frameY="-46" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_12" x="167" y="1212" width="53" height="51" frameX="-52" frameY="-46" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_13" x="112" y="1212" width="53" height="49" frameX="-52" frameY="-47" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_14" x="57" y="1212" width="53" height="49" frameX="-52" frameY="-47" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_15" x="2" y="1212" width="53" height="51" frameX="-52" frameY="-45" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_16" x="1982" y="1115" width="53" height="51" frameX="-52" frameY="-45" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_17" x="1927" y="1115" width="53" height="51" frameX="-52" frameY="-45" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_18" x="1872" y="1115" width="53" height="49" frameX="-52" frameY="-47" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_19" x="717" y="1212" width="53" height="49" frameX="-52" frameY="-47" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_20" x="772" y="1212" width="53" height="51" frameX="-52" frameY="-46" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_21" x="607" y="1212" width="53" height="51" frameX="-52" frameY="-46" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_22" x="662" y="1212" width="53" height="49" frameX="-52" frameY="-48" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_23" x="662" y="1212" width="53" height="49" frameX="-52" frameY="-48" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_24" x="717" y="1212" width="53" height="49" frameX="-52" frameY="-48" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_25" x="772" y="1212" width="53" height="51" frameX="-52" frameY="-47" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_26" x="607" y="1212" width="53" height="51" frameX="-52" frameY="-47" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_27" x="662" y="1212" width="53" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_28" x="717" y="1212" width="53" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_29" x="772" y="1212" width="53" height="51" frameX="-52" frameY="-48" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_30" x="607" y="1212" width="53" height="51" frameX="-52" frameY="-48" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_31" x="662" y="1212" width="53" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_32" x="662" y="1212" width="53" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_33" x="717" y="1212" width="53" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_34" x="772" y="1212" width="53" height="51" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_35" x="717" y="1212" width="53" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_36" x="662" y="1212" width="53" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_37" x="607" y="1212" width="53" height="51" frameX="-52" frameY="-48" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_38" x="772" y="1212" width="53" height="51" frameX="-52" frameY="-48" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_39" x="717" y="1212" width="53" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_40" x="717" y="1212" width="53" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_41" x="662" y="1212" width="53" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_42" x="607" y="1212" width="53" height="51" frameX="-52" frameY="-47" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_43" x="772" y="1212" width="53" height="51" frameX="-52" frameY="-47" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_44" x="717" y="1212" width="53" height="49" frameX="-52" frameY="-48" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_45" x="662" y="1212" width="53" height="49" frameX="-52" frameY="-48" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_46" x="607" y="1212" width="53" height="51" frameX="-52" frameY="-46" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_47" x="772" y="1212" width="53" height="51" frameX="-52" frameY="-46" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_48" x="717" y="1212" width="53" height="49" frameX="-52" frameY="-47" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_49" x="662" y="1212" width="53" height="49" frameX="-52" frameY="-47" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_50" x="607" y="1212" width="53" height="51" frameX="-52" frameY="-45" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_51" x="772" y="1212" width="53" height="51" frameX="-52" frameY="-45" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_52" x="607" y="1212" width="53" height="51" frameX="-52" frameY="-45" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_53" x="662" y="1212" width="53" height="49" frameX="-52" frameY="-47" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_54" x="717" y="1212" width="53" height="49" frameX="-52" frameY="-47" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_55" x="772" y="1212" width="53" height="51" frameX="-52" frameY="-46" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_56" x="607" y="1212" width="53" height="51" frameX="-52" frameY="-46" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_57" x="662" y="1212" width="53" height="49" frameX="-52" frameY="-48" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_58" x="662" y="1212" width="53" height="49" frameX="-52" frameY="-48" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_59" x="717" y="1212" width="53" height="49" frameX="-52" frameY="-48" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_60" x="772" y="1212" width="53" height="51" frameX="-52" frameY="-47" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_61" x="607" y="1212" width="53" height="51" frameX="-52" frameY="-47" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_62" x="662" y="1212" width="53" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_63" x="717" y="1212" width="53" height="49" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_64" x="772" y="1212" width="53" height="51" frameX="-52" frameY="-48" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_65" x="607" y="1212" width="53" height="51" frameX="-52" frameY="-48" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_66" x="662" y="1212" width="53" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_67" x="662" y="1212" width="53" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_68" x="717" y="1212" width="53" height="49" frameX="-52" frameY="-50" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_fire_69" x="772" y="1212" width="53" height="51" frameX="-52" frameY="-49" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_03" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_04" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_05" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_06" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_07" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_08" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_09" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_10" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_11" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_12" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_13" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_14" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_15" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_16" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_17" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_18" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_19" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-35" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_20" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-35" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_21" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-35" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_22" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_23" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_24" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_25" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_26" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_27" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_28" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_29" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_30" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_31" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_32" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_33" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_34" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_35" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_36" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_37" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_38" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_39" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_40" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_41" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_42" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_43" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_44" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_45" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_46" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_47" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_48" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_49" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_50" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_51" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_52" x="1627" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_53" x="1578" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_54" x="1529" y="1115" width="47" height="61" frameX="-55" frameY="-35" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_55" x="1480" y="1115" width="47" height="61" frameX="-55" frameY="-35" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_56" x="1431" y="1115" width="47" height="61" frameX="-55" frameY="-35" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_57" x="1382" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_58" x="1333" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_59" x="1284" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_60" x="1235" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_61" x="1186" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_62" x="1137" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_63" x="1088" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_64" x="1039" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_65" x="990" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_66" x="941" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_67" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_68" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_69" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_70" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="ammo_water_71" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="attacking (06)" x="547" y="1115" width="67" height="91" frameX="-62" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="attacking (07)" x="486" y="1115" width="59" height="91" frameX="-61" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="attacking (08)" x="423" y="1115" width="61" height="95" frameX="-61" frameY="-33" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="attacking (09)" x="340" y="1115" width="81" height="95" frameX="-49" frameY="-33" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="attacking (10)" x="239" y="1115" width="99" height="91" frameX="-31" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="attacking (11)" x="176" y="1115" width="61" height="89" frameX="-59" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="attacking (12)" x="103" y="1115" width="71" height="83" frameX="-60" frameY="-42" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="attacking (13)" x="2" y="1115" width="99" height="79" frameX="-50" frameY="-46" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="boss life earth" x="1332" y="1001" width="48" height="37"/>
+    <SubTexture name="boss life fire" x="1282" y="1001" width="48" height="37"/>
+    <SubTexture name="boss life none" x="1232" y="1001" width="48" height="37"/>
+    <SubTexture name="checkpoint_earth" x="1176" y="1001" width="54" height="112"/>
+    <SubTexture name="checkpoint_earth_03" x="1120" y="1001" width="54" height="112"/>
+    <SubTexture name="checkpoint_earth_04" x="1064" y="1001" width="54" height="112"/>
+    <SubTexture name="checkpoint_earth_05" x="1008" y="1001" width="54" height="112"/>
+    <SubTexture name="checkpoint_earth_06" x="952" y="1001" width="54" height="112"/>
+    <SubTexture name="checkpoint_earth_07" x="896" y="1001" width="54" height="112"/>
+    <SubTexture name="checkpoint_earth_08" x="840" y="1001" width="54" height="112"/>
+    <SubTexture name="checkpoint_earth_09" x="784" y="1001" width="54" height="112"/>
+    <SubTexture name="checkpoint_earth_10" x="728" y="1001" width="54" height="112"/>
+    <SubTexture name="checkpoint_earth_11" x="672" y="1001" width="54" height="112"/>
+    <SubTexture name="checkpoint_earth_12" x="616" y="1001" width="54" height="112"/>
+    <SubTexture name="checkpoint_earth_13" x="560" y="1001" width="54" height="112"/>
+    <SubTexture name="checkpoint_earth_14" x="504" y="1001" width="54" height="112"/>
+    <SubTexture name="checkpoint_earth_15" x="448" y="1001" width="54" height="112"/>
+    <SubTexture name="checkpoint_earth_16" x="392" y="1001" width="54" height="112"/>
+    <SubTexture name="checkpoint_earth_17" x="336" y="1001" width="54" height="112"/>
+    <SubTexture name="checkpoint_earth_18" x="280" y="1001" width="54" height="112"/>
+    <SubTexture name="checkpoint_earth_19" x="224" y="1001" width="54" height="112"/>
+    <SubTexture name="checkpoint_earth_20" x="168" y="1001" width="54" height="112"/>
+    <SubTexture name="checkpoint_earth_21" x="112" y="1001" width="54" height="112"/>
+    <SubTexture name="checkpoint_fire" x="57" y="1001" width="53" height="112"/>
+    <SubTexture name="checkpoint_fire03" x="2" y="1001" width="53" height="112"/>
+    <SubTexture name="checkpoint_fire04" x="1966" y="887" width="53" height="112"/>
+    <SubTexture name="checkpoint_fire05" x="1911" y="887" width="53" height="112"/>
+    <SubTexture name="checkpoint_fire06" x="1856" y="887" width="53" height="112"/>
+    <SubTexture name="checkpoint_fire07" x="1801" y="887" width="53" height="112"/>
+    <SubTexture name="checkpoint_fire08" x="1746" y="887" width="53" height="112"/>
+    <SubTexture name="checkpoint_fire09" x="1691" y="887" width="53" height="112"/>
+    <SubTexture name="checkpoint_fire10" x="1636" y="887" width="53" height="112"/>
+    <SubTexture name="checkpoint_fire11" x="1581" y="887" width="53" height="112"/>
+    <SubTexture name="checkpoint_fire12" x="1526" y="887" width="53" height="112"/>
+    <SubTexture name="checkpoint_fire13" x="1471" y="887" width="53" height="112"/>
+    <SubTexture name="checkpoint_fire14" x="1416" y="887" width="53" height="112"/>
+    <SubTexture name="checkpoint_fire15" x="1361" y="887" width="53" height="112"/>
+    <SubTexture name="checkpoint_fire16" x="1306" y="887" width="53" height="112"/>
+    <SubTexture name="checkpoint_fire17" x="1251" y="887" width="53" height="112"/>
+    <SubTexture name="checkpoint_fire18" x="1196" y="887" width="53" height="112"/>
+    <SubTexture name="checkpoint_fire19" x="1141" y="887" width="53" height="112"/>
+    <SubTexture name="checkpoint_fire20" x="1086" y="887" width="53" height="112"/>
+    <SubTexture name="checkpoint_fire21" x="1031" y="887" width="53" height="112"/>
+    <SubTexture name="damaged_dying (01)" x="866" y="1115" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_dying (02)" x="942" y="887" width="87" height="91" frameX="-42" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_dying (03)" x="845" y="887" width="95" height="91" frameX="-37" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_dying (04)" x="752" y="887" width="91" height="91" frameX="-34" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_dying (05)" x="667" y="887" width="83" height="95" frameX="-31" frameY="-31" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_dying (06)" x="580" y="887" width="85" height="99" frameX="-29" frameY="-27" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_dying (07)" x="491" y="887" width="87" height="93" frameX="-27" frameY="-33" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_dying (08)" x="404" y="887" width="85" height="97" frameX="-29" frameY="-29" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_dying (09)" x="309" y="887" width="93" height="89" frameX="-30" frameY="-37" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_dying (10)" x="206" y="887" width="101" height="101" frameX="-33" frameY="-25" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_dying (11)" x="103" y="887" width="101" height="105" frameX="-33" frameY="-20" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_dying (12)" x="2" y="887" width="99" height="105" frameX="-34" frameY="-19" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_dying (13)" x="1886" y="778" width="97" height="107" frameX="-35" frameY="-16" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_dying (14)" x="1787" y="778" width="97" height="87" frameX="-35" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_dying (15)" x="1686" y="778" width="99" height="87" frameX="-34" frameY="-37" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_dying (16)" x="1583" y="778" width="101" height="87" frameX="-33" frameY="-38" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_dying (17)" x="1583" y="778" width="101" height="87" frameX="-33" frameY="-38" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_dying (18)" x="1480" y="778" width="101" height="87" frameX="-33" frameY="-38" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_normal (01)" x="1407" y="778" width="71" height="91" frameX="-46" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_normal (02)" x="1316" y="778" width="89" height="91" frameX="-40" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_normal (03)" x="1221" y="778" width="93" height="91" frameX="-38" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_normal (04)" x="1128" y="778" width="91" height="91" frameX="-33" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_normal (05)" x="1045" y="778" width="81" height="95" frameX="-32" frameY="-31" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_normal (06)" x="960" y="778" width="83" height="99" frameX="-30" frameY="-27" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_normal (07)" x="871" y="778" width="87" height="93" frameX="-27" frameY="-33" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_normal (08)" x="784" y="778" width="85" height="99" frameX="-29" frameY="-27" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_normal (09)" x="701" y="778" width="81" height="95" frameX="-32" frameY="-31" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_normal (10)" x="1128" y="778" width="91" height="91" frameX="-33" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_normal (11)" x="606" y="778" width="93" height="91" frameX="-38" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_normal (12)" x="1316" y="778" width="89" height="91" frameX="-40" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="damaged_normal (13)" x="1407" y="778" width="71" height="91" frameX="-46" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="dying (01)" x="503" y="778" width="101" height="101" frameX="-31" frameY="-31" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="dying (02)" x="400" y="778" width="101" height="103" frameX="-30" frameY="-28" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="dying (03)" x="299" y="778" width="99" height="103" frameX="-32" frameY="-27" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="dying (04)" x="198" y="778" width="99" height="107" frameX="-31" frameY="-22" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="dying (05)" x="99" y="778" width="97" height="85" frameX="-33" frameY="-43" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="dying (06)" x="2" y="778" width="95" height="85" frameX="-34" frameY="-41" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="dying (07)" x="1945" y="671" width="99" height="85" frameX="-31" frameY="-44" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="dying (08)" x="1842" y="671" width="101" height="87" frameX="-31" frameY="-45" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="dying (09)" x="1842" y="671" width="101" height="87" frameX="-31" frameY="-45" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="dying (10)" x="1739" y="671" width="101" height="87" frameX="-31" frameY="-45" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (01)" x="1682" y="671" width="55" height="103" frameX="-43" frameY="-29" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (02)" x="1629" y="671" width="51" height="105" frameX="-51" frameY="-27" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (03)" x="1580" y="671" width="47" height="105" frameX="-62" frameY="-27" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (04)" x="1531" y="671" width="47" height="103" frameX="-70" frameY="-28" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (05)" x="1472" y="671" width="57" height="97" frameX="-71" frameY="-32" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (06)" x="1405" y="671" width="65" height="91" frameX="-72" frameY="-37" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (07)" x="1332" y="671" width="71" height="85" frameX="-71" frameY="-41" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (08)" x="1255" y="671" width="75" height="85" frameX="-71" frameY="-39" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (09)" x="1176" y="671" width="77" height="83" frameX="-71" frameY="-40" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (10)" x="1099" y="671" width="75" height="85" frameX="-72" frameY="-38" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (11)" x="1040" y="671" width="57" height="87" frameX="-72" frameY="-42" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (12)" x="971" y="671" width="67" height="83" frameX="-60" frameY="-44" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (13)" x="890" y="671" width="79" height="79" frameX="-51" frameY="-45" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (14)" x="809" y="671" width="79" height="77" frameX="-51" frameY="-48" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (15)" x="728" y="671" width="79" height="75" frameX="-52" frameY="-50" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (16)" x="649" y="671" width="77" height="79" frameX="-48" frameY="-46" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (17)" x="574" y="671" width="73" height="81" frameX="-46" frameY="-44" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (18)" x="505" y="671" width="67" height="85" frameX="-46" frameY="-41" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (19)" x="438" y="671" width="65" height="89" frameX="-45" frameY="-38" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (20)" x="365" y="671" width="71" height="91" frameX="-46" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (21)" x="306" y="671" width="57" height="91" frameX="-55" frameY="-37" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (22)" x="257" y="671" width="47" height="93" frameX="-71" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (23)" x="176" y="671" width="79" height="95" frameX="-70" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (24)" x="91" y="671" width="83" height="95" frameX="-66" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (25)" x="91" y="671" width="83" height="95" frameX="-66" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (26)" x="2" y="671" width="87" height="99" frameX="-62" frameY="-33" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="falling (28)" x="1973" y="564" width="53" height="105" frameX="-45" frameY="-28" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="idle (01)" x="1898" y="564" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="idle (02)" x="1898" y="564" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="idle (03)" x="1898" y="564" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="idle (04)" x="1898" y="564" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="idle (05)" x="1898" y="564" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="idle (06)" x="1898" y="564" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="idle (07)" x="1898" y="564" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="idle (08)" x="1898" y="564" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="idle (09)" x="1823" y="564" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="idle (10)" x="1748" y="564" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="idle (11)" x="1673" y="564" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="idle (12)" x="1598" y="564" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="idle (13)" x="1823" y="564" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="idle (14)" x="1898" y="564" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="idle (15)" x="1898" y="564" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="idle (16)" x="1898" y="564" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="idle (17)" x="1898" y="564" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="idle (18)" x="1898" y="564" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="idle (19)" x="1898" y="564" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="idle (20)" x="1898" y="564" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="jumping (10)" x="306" y="671" width="57" height="91" frameX="-55" frameY="-37" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="jumping (11)" x="257" y="671" width="47" height="93" frameX="-71" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="jumping (12)" x="176" y="671" width="79" height="95" frameX="-70" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="jumping (13)" x="91" y="671" width="83" height="95" frameX="-66" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="jumping (14)" x="91" y="671" width="83" height="95" frameX="-66" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="jumping (15)" x="2" y="671" width="87" height="99" frameX="-62" frameY="-33" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="jumping (16)" x="2" y="671" width="87" height="99" frameX="-62" frameY="-33" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="jumping (17)" x="1973" y="564" width="53" height="105" frameX="-45" frameY="-28" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="jumping (18)" x="1973" y="564" width="53" height="105" frameX="-45" frameY="-28" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="jumping (19)" x="1541" y="564" width="55" height="103" frameX="-43" frameY="-29" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="jumping (20)" x="1541" y="564" width="55" height="103" frameX="-43" frameY="-29" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="life0001" x="1488" y="564" width="51" height="41" frameX="-52" frameY="-58" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0002" x="1435" y="564" width="51" height="41" frameX="-52" frameY="-58" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0003" x="1382" y="564" width="51" height="41" frameX="-52" frameY="-58" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0004" x="1329" y="564" width="51" height="41" frameX="-52" frameY="-58" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0005" x="1488" y="564" width="51" height="41" frameX="-52" frameY="-57" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0006" x="1276" y="564" width="51" height="41" frameX="-52" frameY="-57" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0007" x="1223" y="564" width="51" height="41" frameX="-52" frameY="-57" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0008" x="1170" y="564" width="51" height="41" frameX="-52" frameY="-57" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0009" x="1117" y="564" width="51" height="41" frameX="-52" frameY="-56" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0010" x="1064" y="564" width="51" height="41" frameX="-52" frameY="-56" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0011" x="1011" y="564" width="51" height="41" frameX="-52" frameY="-56" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0012" x="958" y="564" width="51" height="41" frameX="-52" frameY="-56" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0013" x="905" y="564" width="51" height="41" frameX="-52" frameY="-55" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0014" x="852" y="564" width="51" height="41" frameX="-52" frameY="-55" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0015" x="799" y="564" width="51" height="41" frameX="-52" frameY="-55" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0016" x="746" y="564" width="51" height="41" frameX="-52" frameY="-55" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0017" x="693" y="564" width="51" height="41" frameX="-52" frameY="-54" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0018" x="638" y="564" width="53" height="41" frameX="-51" frameY="-55" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0019" x="585" y="564" width="51" height="41" frameX="-52" frameY="-55" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0020" x="532" y="564" width="51" height="41" frameX="-52" frameY="-55" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0021" x="1488" y="564" width="51" height="41" frameX="-52" frameY="-55" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0022" x="1329" y="564" width="51" height="41" frameX="-52" frameY="-56" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0023" x="1382" y="564" width="51" height="41" frameX="-52" frameY="-56" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0024" x="1382" y="564" width="51" height="41" frameX="-52" frameY="-56" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0025" x="1435" y="564" width="51" height="41" frameX="-52" frameY="-56" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0026" x="1488" y="564" width="51" height="41" frameX="-52" frameY="-56" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0027" x="1329" y="564" width="51" height="41" frameX="-52" frameY="-57" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0028" x="1382" y="564" width="51" height="41" frameX="-52" frameY="-57" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0029" x="1435" y="564" width="51" height="41" frameX="-52" frameY="-57" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0030" x="1488" y="564" width="51" height="41" frameX="-52" frameY="-57" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0031" x="1329" y="564" width="51" height="41" frameX="-52" frameY="-58" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0032" x="1382" y="564" width="51" height="41" frameX="-52" frameY="-58" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0033" x="1382" y="564" width="51" height="41" frameX="-52" frameY="-58" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0034" x="1435" y="564" width="51" height="41" frameX="-52" frameY="-58" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0035" x="1488" y="564" width="51" height="41" frameX="-52" frameY="-58" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0036" x="1435" y="564" width="51" height="41" frameX="-52" frameY="-58" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0037" x="1382" y="564" width="51" height="41" frameX="-52" frameY="-58" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0038" x="1329" y="564" width="51" height="41" frameX="-52" frameY="-58" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0039" x="1488" y="564" width="51" height="41" frameX="-52" frameY="-57" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0040" x="1435" y="564" width="51" height="41" frameX="-52" frameY="-57" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0041" x="1435" y="564" width="51" height="41" frameX="-52" frameY="-57" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0042" x="1382" y="564" width="51" height="41" frameX="-52" frameY="-57" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0043" x="1329" y="564" width="51" height="41" frameX="-52" frameY="-57" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0044" x="1488" y="564" width="51" height="41" frameX="-52" frameY="-56" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0045" x="1435" y="564" width="51" height="41" frameX="-52" frameY="-56" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0046" x="1382" y="564" width="51" height="41" frameX="-52" frameY="-56" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0047" x="1329" y="564" width="51" height="41" frameX="-52" frameY="-56" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0048" x="1488" y="564" width="51" height="41" frameX="-52" frameY="-55" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0049" x="1435" y="564" width="51" height="41" frameX="-52" frameY="-55" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0050" x="1382" y="564" width="51" height="41" frameX="-52" frameY="-55" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0051" x="1329" y="564" width="51" height="41" frameX="-52" frameY="-55" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0052" x="1488" y="564" width="51" height="41" frameX="-52" frameY="-54" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0053" x="1329" y="564" width="51" height="41" frameX="-52" frameY="-55" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0054" x="1382" y="564" width="51" height="41" frameX="-52" frameY="-55" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0055" x="1435" y="564" width="51" height="41" frameX="-52" frameY="-55" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0056" x="1488" y="564" width="51" height="41" frameX="-52" frameY="-55" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0057" x="1329" y="564" width="51" height="41" frameX="-52" frameY="-56" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0058" x="1382" y="564" width="51" height="41" frameX="-52" frameY="-56" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0059" x="1382" y="564" width="51" height="41" frameX="-52" frameY="-56" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0060" x="1435" y="564" width="51" height="41" frameX="-52" frameY="-56" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0061" x="1488" y="564" width="51" height="41" frameX="-52" frameY="-56" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0062" x="1329" y="564" width="51" height="41" frameX="-52" frameY="-57" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0063" x="1382" y="564" width="51" height="41" frameX="-52" frameY="-57" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0064" x="1435" y="564" width="51" height="41" frameX="-52" frameY="-57" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0065" x="1488" y="564" width="51" height="41" frameX="-52" frameY="-57" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0066" x="1329" y="564" width="51" height="41" frameX="-52" frameY="-58" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0067" x="1382" y="564" width="51" height="41" frameX="-52" frameY="-58" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0068" x="1382" y="564" width="51" height="41" frameX="-52" frameY="-58" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0069" x="1435" y="564" width="51" height="41" frameX="-52" frameY="-58" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="life0070" x="1488" y="564" width="51" height="41" frameX="-52" frameY="-58" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="running (01)" x="439" y="564" width="91" height="89" frameX="-40" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (02)" x="348" y="564" width="89" height="89" frameX="-41" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (03)" x="257" y="564" width="89" height="87" frameX="-40" frameY="-37" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (04)" x="168" y="564" width="87" height="89" frameX="-41" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (05)" x="83" y="564" width="83" height="89" frameX="-43" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (06)" x="2" y="564" width="79" height="89" frameX="-44" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (07)" x="1929" y="471" width="73" height="89" frameX="-47" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (08)" x="1858" y="471" width="69" height="89" frameX="-50" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (09)" x="1793" y="471" width="63" height="89" frameX="-54" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (10)" x="1736" y="471" width="55" height="89" frameX="-60" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (11)" x="1691" y="471" width="43" height="89" frameX="-67" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (12)" x="1636" y="471" width="53" height="89" frameX="-59" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (13)" x="1569" y="471" width="65" height="89" frameX="-52" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (14)" x="1494" y="471" width="73" height="89" frameX="-47" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (15)" x="1409" y="471" width="83" height="89" frameX="-43" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (16)" x="1320" y="471" width="87" height="89" frameX="-43" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (17)" x="1233" y="471" width="85" height="89" frameX="-43" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (18)" x="1150" y="471" width="81" height="89" frameX="-44" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (19)" x="1071" y="471" width="77" height="89" frameX="-44" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (20)" x="998" y="471" width="71" height="89" frameX="-47" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (21)" x="933" y="471" width="63" height="89" frameX="-51" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (22)" x="878" y="471" width="53" height="91" frameX="-56" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (23)" x="829" y="471" width="47" height="91" frameX="-62" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (24)" x="770" y="471" width="57" height="91" frameX="-55" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (25)" x="701" y="471" width="67" height="89" frameX="-51" frameY="-37" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (26)" x="624" y="471" width="75" height="89" frameX="-47" frameY="-37" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running (27)" x="537" y="471" width="85" height="89" frameX="-42" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running_beginning (01)" x="1407" y="778" width="71" height="91" frameX="-46" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running_beginning (02)" x="462" y="471" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running_beginning (03)" x="387" y="471" width="73" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running_beginning (04)" x="312" y="471" width="73" height="91" frameX="-46" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running_beginning (05)" x="235" y="471" width="75" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running_beginning (06)" x="158" y="471" width="75" height="91" frameX="-46" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running_beginning (07)" x="81" y="471" width="75" height="91" frameX="-46" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running_beginning (08)" x="2" y="471" width="77" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running_beginning (09)" x="1919" y="341" width="77" height="91" frameX="-46" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running_beginning (10)" x="1838" y="341" width="79" height="91" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running_beginning (11)" x="1753" y="341" width="83" height="93" frameX="-43" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="running_beginning (12)" x="1664" y="341" width="87" height="91" frameX="-42" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sign" x="1580" y="341" width="82" height="128"/>
+    <SubTexture name="sliding (01)" x="439" y="564" width="91" height="89" frameX="-40" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding (02)" x="1491" y="341" width="87" height="89" frameX="-39" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding (03)" x="1408" y="341" width="81" height="89" frameX="-39" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding (04)" x="1333" y="341" width="73" height="89" frameX="-41" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding (05)" x="1264" y="341" width="67" height="89" frameX="-39" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding (06)" x="1197" y="341" width="65" height="89" frameX="-39" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding (07)" x="1130" y="341" width="65" height="89" frameX="-38" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding (08)" x="1059" y="341" width="69" height="89" frameX="-32" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding (09)" x="1059" y="341" width="69" height="89" frameX="-32" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding (10)" x="1059" y="341" width="69" height="89" frameX="-32" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding_triangle1_00" x="948" y="341" width="109" height="99" frameX="-31" frameY="-34" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding_triangle1_01" x="839" y="341" width="107" height="97" frameX="-33" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding_triangle1_02" x="736" y="341" width="101" height="97" frameX="-36" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding_triangle1_03" x="639" y="341" width="95" height="97" frameX="-39" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding_triangle1_04" x="550" y="341" width="87" height="97" frameX="-42" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding_triangle1_05" x="469" y="341" width="79" height="95" frameX="-44" frameY="-38" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding_triangle1_06" x="382" y="341" width="85" height="97" frameX="-42" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding_triangle1_07" x="287" y="341" width="93" height="97" frameX="-37" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding_triangle1_08" x="188" y="341" width="97" height="97" frameX="-35" frameY="-36" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding_triangle1_09" x="83" y="341" width="103" height="99" frameX="-31" frameY="-34" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding_triangle2_00" x="2" y="341" width="79" height="93" frameX="-45" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding_triangle2_01" x="1914" y="246" width="83" height="93" frameX="-44" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding_triangle2_02" x="1823" y="246" width="89" height="93" frameX="-42" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding_triangle2_03" x="1730" y="246" width="91" height="93" frameX="-43" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding_triangle2_04" x="1633" y="246" width="95" height="93" frameX="-41" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding_triangle2_05" x="1534" y="246" width="97" height="93" frameX="-41" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding_triangle2_06" x="1439" y="246" width="93" height="93" frameX="-42" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding_triangle2_07" x="1348" y="246" width="89" height="93" frameX="-43" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding_triangle2_08" x="1261" y="246" width="85" height="93" frameX="-43" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="sliding_triangle2_09" x="1176" y="246" width="83" height="93" frameX="-44" frameY="-35" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="steam0001" x="798" y="246" width="376" height="70" frameX="-115" frameY="0" frameWidth="594" frameHeight="70"/>
+    <SubTexture name="steam0002" x="406" y="246" width="390" height="70" frameX="-105" frameY="0" frameWidth="594" frameHeight="70"/>
+    <SubTexture name="steam0003" x="2" y="246" width="402" height="70" frameX="-96" frameY="0" frameWidth="594" frameHeight="70"/>
+    <SubTexture name="steam0004" x="1334" y="174" width="416" height="70" frameX="-85" frameY="0" frameWidth="594" frameHeight="70"/>
+    <SubTexture name="steam0005" x="902" y="174" width="430" height="70" frameX="-75" frameY="0" frameWidth="594" frameHeight="70"/>
+    <SubTexture name="steam0006" x="458" y="174" width="442" height="70" frameX="-66" frameY="0" frameWidth="594" frameHeight="70"/>
+    <SubTexture name="steam0007" x="2" y="174" width="454" height="70" frameX="-57" frameY="0" frameWidth="594" frameHeight="70"/>
+    <SubTexture name="steam0008" x="1502" y="102" width="468" height="70" frameX="-47" frameY="0" frameWidth="594" frameHeight="70"/>
+    <SubTexture name="steam0009" x="1020" y="102" width="480" height="70" frameX="-38" frameY="0" frameWidth="594" frameHeight="70"/>
+    <SubTexture name="steam0010" x="524" y="102" width="494" height="70" frameX="-27" frameY="0" frameWidth="594" frameHeight="70"/>
+    <SubTexture name="steam0011" x="2" y="102" width="520" height="70" frameX="-20" frameY="0" frameWidth="594" frameHeight="70"/>
+    <SubTexture name="steam0012" x="1171" y="2" width="544" height="70" frameX="-14" frameY="0" frameWidth="594" frameHeight="70"/>
+    <SubTexture name="steam0013" x="599" y="2" width="570" height="70" frameX="-6" frameY="0" frameWidth="594" frameHeight="70"/>
+    <SubTexture name="steam0014" x="594" y="2" width="3" height="3" frameX="0" frameY="0" frameWidth="594" frameHeight="70"/>
+    <SubTexture name="totem_air" x="336" y="2" width="256" height="94" frameX="-26" frameY="-107" frameWidth="308" frameHeight="308"/>
+    <SubTexture name="totem_earth" x="260" y="2" width="74" height="98" frameX="-117" frameY="-105" frameWidth="308" frameHeight="308"/>
+    <SubTexture name="totem_fire" x="186" y="2" width="72" height="88" frameX="-118" frameY="-110" frameWidth="308" frameHeight="308"/>
+    <SubTexture name="totem_water" x="2" y="2" width="182" height="90" frameX="-63" frameY="-109" frameWidth="308" frameHeight="308"/>
+    <SubTexture name="water ammo0001" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0002" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0003" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0004" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0005" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0006" x="941" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0007" x="990" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0008" x="1039" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0009" x="1088" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0010" x="1137" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0011" x="1186" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0012" x="1235" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0013" x="1284" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0014" x="1333" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0015" x="1382" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0016" x="1431" y="1115" width="47" height="61" frameX="-55" frameY="-35" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0017" x="1480" y="1115" width="47" height="61" frameX="-55" frameY="-35" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0018" x="1529" y="1115" width="47" height="61" frameX="-55" frameY="-35" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0019" x="1578" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0020" x="1627" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0021" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0022" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0023" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0024" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0025" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0026" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0027" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0028" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0029" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0030" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0031" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0032" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0033" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0034" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0035" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0036" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0037" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0038" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0039" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0040" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0041" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0042" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0043" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0044" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0045" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0046" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0047" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0048" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0049" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0050" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0051" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-35" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0052" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-35" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0053" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-35" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0054" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0055" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0056" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0057" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-36" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0058" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0059" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0060" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0061" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0062" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-37" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0063" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0064" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0065" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0066" x="1676" y="1115" width="47" height="61" frameX="-55" frameY="-38" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0067" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0068" x="1725" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0069" x="1774" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+    <SubTexture name="water ammo0070" x="1823" y="1115" width="47" height="61" frameX="-55" frameY="-39" frameWidth="155" frameHeight="155"/>
+</TextureAtlas>

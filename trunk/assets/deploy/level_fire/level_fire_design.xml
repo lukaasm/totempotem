@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- PREFABS
+
+	// SINGLE
+	<Platform texture="single_block_1" x="4" y = "4">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+	</Platform>
+	
+	// GODLIKE
+	<Platform texture="godlike_block" x="2" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	// DOUBLE LEFT
+	<Platform texture="double_block_left_1" x="8" y = "4">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" width="2.42"/>
+	</Platform>
+	
+	// DOUBLE RIGHT
+	<Platform texture="double_block_right_1" x="8" y = "4">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" width="2.42" flip="true"/>
+	</Platform>
+	
+	// QUADRUPLE LEFT
+	<Platform texture="quadruple_block_left_1" x="12" y = "4">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" y="0.01" width="2.42"/>
+	</Platform>
+	
+	// QUADRUPLE RIGHT
+	<Platform texture="quadruple_block_right_1" x="-2" y = "6">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" y="0.03" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Item texture="checkpoint_fire" x="1" y = "4.25" width="1" height="12">
+		<Behaviour type="Animation" collisionSide="ALL" repeat="false"/>
+		<Behaviour type="Checkpoint"/>
+	</Item>
+	
+	<Item texture="sign" x="2" y = "5.25" height = "20">
+		<Behaviour type="Warning"/>
+	</Item>
+	
+	<Item x="-3" y = "5.25" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+-->
+
+<Level>
+	<!-- Start stage Debug x="20" y="400" -->
+	<!-- Up-down platforms stage Debug x="1400" y="300" -->
+	<!-- Trap stage Debug x="3000" y="400" -->
+	<!-- Pause stage Debug x="4600" y="400" -->
+	<!-- Player crashing stage Debug x="5400" y="400" -->
+	<!-- Finish game stage debug x="8000" y="400" -->
+	
+	<Start x="0" y="100"/>
+<!-- Start stage Debug x="20" y="400" -->
+	<Platform x="0" y = "7.4" width="100000" height="2">
+		<Behaviour type="Kill"/>
+	</Platform>
+	
+	<Platform texture="single_block_1" x="-5" y = "6">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+	</Platform>
+	
+	<Item x="-5" y = "5.25" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Item texture="checkpoint_fire" x="-1" y = "3.25" width="1" height="12">
+		<Behaviour type="Animation" collisionSide="ALL" repeat="false"/>
+		<Behaviour type="Checkpoint"/>
+	</Item>
+	
+	<Platform texture="quadruple_block_right_1" x="0" y = "4">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" y="0.03" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Platform texture="quadruple_block_right_1" x="4.70" y = "4">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" y="0.03" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Platform texture="quadruple_block_left_1" x="11" y = "6">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" y="0.01" width="2.42"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Platform texture="single_block_2" x="15" y = "2">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+	</Platform>
+	
+	<Item x="15" y = "1.25" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "life" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddLife"/>
+	</Item>
+	
+	<Item x="15" y = "4.25" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Platform texture="quadruple_block_right_1" x="19" y = "6">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" y="0.03" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Platform texture="single_block_1" x="22" y = "4">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+	</Platform>
+	
+	<Platform texture="single_block_2" x="26" y = "3">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+	</Platform>
+	
+	<Platform texture="single_block_3" x="24" y = "1">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+	</Platform>
+	
+	<Platform texture="double_block_right_1" x="31" y = "1">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Item x="32" y = "4.5" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Platform texture="single_block_2" x="32" y = "6">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+	</Platform>
+	
+	<Platform texture="quadruple_block_left_1" x="37" y = "4">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" y="0.01" width="2.42"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Platform texture="godlike_block" x="45" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Platform texture="quadruple_block_right_1" x="53" y = "4">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" y="0.03" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Item texture="checkpoint_fire" x="54" y = "3.25" width="1" height="12">
+		<Behaviour type="Animation" collisionSide="ALL" repeat="false"/>
+		<Behaviour type="Checkpoint"/>
+	</Item>
+	
+	<Platform texture="double_block_right_1" x="58" y = "2">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+		<Behaviour type="Move" direction="RIGHT" shift="304" speed="0.2"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Platform texture="double_block_right_1" x="65" y = "2">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+		<Behaviour type="Move" direction="LEFT" shift="304" speed="0.2"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Platform texture="single_block_2" x="62.5" y = "4">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+		<Behaviour type="Disappear" time="2"/>
+	</Platform>
+	
+	<Item x="62.5" y = "3.0" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Platform texture="quadruple_block_right_1" x="73" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" y="0.03" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Platform texture="single_block_2" x="79" y = "6">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+		<Behaviour type="Disappear" time="2"/>
+	</Platform>
+	
+	<Platform texture="single_block_1" x="84" y = "6">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+	</Platform>
+
+	<Item x="84" y = "5.0" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Platform texture="single_block_3" x="89" y = "6">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+		<Behaviour type="Disappear" time="2"/>
+	</Platform>
+	
+	<Platform texture="quadruple_block_right_1" x="94" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" y="0.03" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Platform texture="godlike_block" x="102" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Platform texture="double_block_right_1" x="109" y = "2">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Item texture="checkpoint_fire" x="109" y = "1.25" width="1" height="19">
+		<Behaviour type="Animation" collisionSide="ALL" repeat="false"/>
+		<Behaviour type="Checkpoint"/>
+	</Item>
+	
+	<Platform texture="double_block_right_1" x="112" y = "4">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+		<Behaviour type="Move" direction="RIGHT" shift="404" speed="0.2"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Platform texture="godlike_block" x="123" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Platform texture="godlike_block" x="127" y = "1.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Item x="127" y = "3.5" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Platform texture="godlike_block" x="127" y = "5.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Platform texture="godlike_block" x="131" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Platform texture="single_block_2" x="135" y = "1">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+	</Platform>
+	
+	<Item x="137" y = "0.2" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Platform texture="single_block_1" x="139" y = "1">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+	</Platform>
+	
+	<Item x="141" y = "0.2" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Platform texture="single_block_1" x="143" y = "1">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+	</Platform>
+	
+	<Platform texture="quadruple_block_right_1" x="136" y = "5.5">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" y="0.03" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Item x="139.5" y = "3.5" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Platform texture="quadruple_block_right_1" x="143" y = "5.5">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" y="0.03" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Platform texture="single_block_2" x="147" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+	</Platform>
+	<Canon x="145.5" y="3.25"/>
+	
+	<Platform texture="double_block_left_1" x="153" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.55" y="0.01" width="2.42"/>
+	</Platform>
+
+	<Item texture="checkpoint_fire" x="153" y = "2.75" width="1" height="19">
+		<Behaviour type="Animation" collisionSide="ALL" repeat="false"/>
+		<Behaviour type="Checkpoint"/>
+	</Item>
+	
+	<Platform texture="single_block_1" x="161" y = "1.5">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+	</Platform>
+	<Canon x="159.5" y="1.25"/>
+	
+	<Item x="161" y = "0.5" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "life" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddLife"/>
+	</Item>
+	
+	<Platform texture="single_block_3" x="159" y = "5.5">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+	</Platform>
+	<Canon x="157.5" y="5.25" timer="1000"/>
+
+	<Platform texture="godlike_block" x="165" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+		<Behaviour type="Move" direction="UP" shift="100" speed="0.1"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+
+	<Platform texture="godlike_block" x="173" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+		<Behaviour type="Move" direction="UP" shift="100" speed="0.1"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Platform texture="godlike_block" x="169" y = "1.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+		<Behaviour type="Move" direction="UP" shift="100" speed="0.1"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Item x="169" y = "3.5" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Platform texture="godlike_block" x="169" y = "5.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+		<Behaviour type="Move" direction="UP" shift="100" speed="0.1"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Platform texture="quadruple_block_right_1" x="179" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" y="0.03" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Item x="179" y = "2.5" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Platform texture="single_block_2" x="185" y = "3">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+	</Platform>
+	
+	<Platform texture="single_block_1" x="189" y = "3">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+		<Behaviour type="Disappear" time="2"/>
+	</Platform>
+
+	<Item x="189" y = "2.0" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Item x="189" y = "5.0" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Platform texture="single_block_1" x="189" y = "6">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+		<Behaviour type="Disappear" time="2"/>
+	</Platform>
+	
+	<Platform texture="single_block_3" x="193" y = "4.5">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+	</Platform>
+	
+	<Platform texture="single_block_1" x="197" y = "4">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+		<Behaviour type="Move" direction="RIGHT" shift="300" speed="0.1"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Item x="199" y = "2.0" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="Move" direction="RIGHT" shift="300" speed="0.1"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Platform texture="single_block_1" x="199" y = "3.0">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+		<Behaviour type="Move" direction="RIGHT" shift="300" speed="0.1"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Platform texture="single_block_1" x="201" y = "4.0">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+		<Behaviour type="Move" direction="RIGHT" shift="300" speed="0.1"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Platform texture="single_block_3" x="207" y = "4.5">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+	</Platform>
+	
+	<Platform texture="godlike_block" x="211" y = "5.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+
+	<Platform texture="godlike_block" x="215" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Platform texture="godlike_block" x="219" y = "1.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Platform texture="godlike_block" x="223" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Platform texture="quadruple_block_right_1" x="230" y = "3.0">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" y="0.03" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Item texture="checkpoint_fire" x="230" y = "2.2" width="1" height="19">
+		<Behaviour type="Animation" collisionSide="ALL" repeat="false"/>
+		<Behaviour type="Checkpoint"/>
+	</Item>
+	
+	<Platform texture="single_block_3" x="238" y = "1.0">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+	</Platform>
+	<Canon x="236.5" y="0.75" timer="1000"/>
+	
+	<Item x="238" y = "0.25" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "life" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddLife"/>
+	</Item>
+	
+	<Platform texture="quadruple_block_right_1" x="239" y = "5.0">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" y="0.03" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Platform texture="godlike_block" x="244" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+		<Behaviour type="Move" direction="RIGHT" shift="300" speed="0.1"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Item x="248" y = "2.0" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="Move" direction="RIGHT" shift="300" speed="0.1"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Platform texture="godlike_block" x="250" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+		<Behaviour type="Move" direction="LEFT" shift="300" speed="0.1"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Platform texture="quadruple_block_left_1" x="259" y = "5">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" y="0.01" width="2.42"/>
+	</Platform>
+	
+	<Platform texture="double_block_right_1" x="263" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" width="2.42" flip="true"/>
+		<Behaviour type="Disappear" time="2"/>
+	</Platform>
+	
+	<Platform texture="double_block_right_1" x="267" y = "2.0">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" width="2.42" flip="true"/>
+	</Platform>
+	
+	<Platform texture="single_block_2" x="272" y = "1.0">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+		<Behaviour type="Move" direction="DOWN" shift="500" speed="0.1"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Item x="272" y = "2.0" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Item x="272" y = "4.0" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Platform texture="single_block_1" x="274" y = "6.0">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+		<Behaviour type="Move" direction="RIGHT" shift="300" speed="0.4"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Platform texture="godlike_block" x="282" y = "5.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+
+	<Platform texture="godlike_block" x="278" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Item x="282" y = "3.5" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Platform texture="godlike_block" x="282" y = "1.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Platform texture="godlike_block" x="286" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Item x="286" y = "1.5" width="3.5" height="1.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Platform texture="godlike_block" x="290" y = "1.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+
+	<Item x="290" y = "3.5" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Platform texture="godlike_block" x="290" y = "5.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Platform texture="godlike_block" x="294" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" y="0.39" width = "2.3" flip="true" height="0.8"/>
+		<Behaviour type="SolidObstacle" shape="triangle"  y="-0.39" width = "2.4" height="0.8"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+	</Platform>
+	
+	<Platform texture="quadruple_block_left_1" x="301" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" y="0.01" width="2.42"/>
+	</Platform>
+	
+	<Item texture="checkpoint_fire" x="301" y = "2.7" width="1" height="19">
+		<Behaviour type="Animation" collisionSide="ALL" repeat="false"/>
+		<Behaviour type="Checkpoint"/>
+	</Item>
+	
+	<Platform texture="single_block_2" x="306" y = "4.5">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+	</Platform>
+	
+	<Platform texture="single_block_1" x="309" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+		<Behaviour type="Disappear" time="2"/>
+	</Platform>
+	
+	<Platform texture="single_block_3" x="312" y = "2.5">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+		<Behaviour type="Disappear" time="2"/>
+	</Platform>
+	
+	<Platform texture="single_block_2" x="315" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+	</Platform>
+	
+	<Item x="315" y = "2.5" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_fire" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Platform texture="single_block_1" x="318" y = "4.5">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+		<Behaviour type="Disappear" time="2"/>
+	</Platform>
+	
+	<Platform texture="single_block_3" x="321" y = "3.5">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+		<Behaviour type="Disappear" time="2"/>
+	</Platform>
+	
+	<Platform texture="single_block_2" x="324" y = "4.5">
+		<Behaviour type="SolidObstacle" shape="triangle" flip="true"/>
+		<Behaviour type="Animation" collisionSide="TOP"/>
+	</Platform>
+	
+	
+	<Platform texture="quadruple_block_left_1" x="330" y = "6">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" y="0.01" width="2.42"/>
+	</Platform>
+	
+	<Platform texture="quadruple_block_left_1" x="334.70" y = "6">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" y="0.01" width="2.42"/>
+	</Platform>
+	
+	<Platform texture="quadruple_block_left_1" x="339.40" y = "6">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" y="0.01" width="2.42"/>
+	</Platform>
+	
+	<Platform texture="quadruple_block_left_1" x="344.1" y = "6">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" y="0.01" width="2.42"/>
+	</Platform>
+	
+	<Platform texture="quadruple_block_left_1" x="348.8" y = "6">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" y="0.01" width="2.42"/>
+	</Platform>
+	
+	<Platform texture="quadruple_block_left_1" x="353.5" y = "6">
+		<Behaviour type="SolidObstacle" shape="triangle" x="-1.8" width="2.42" flip="true"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="-0.6" y="0.01" width="2.42"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="0.6" width="2.42" flip="true"/>
+		<Behaviour type="Animation" collisionSide="ALL"/>
+		<Behaviour type="SolidObstacle" shape="triangle" x="1.8" y="0.01" width="2.42"/>
+	</Platform>
+
+
+	<Item texture="sign" x="339" y = "5.25" height = "20">
+		<Behaviour type="Warning"/>
+	</Item>
+	
+	<Item x="346" y = "5.25">
+		<Behaviour type="TransparentObstacle" width="1" height="12"/>
+		<Behaviour type="ChangeLevelStage" newStage="Boss" />
+	</Item>
+	
+	<BossStageStart x="348" y="0"/>
+	<Boss name="fire_boss" x="359" y="3.4" width="100" height="450"/>
+
+</Level>

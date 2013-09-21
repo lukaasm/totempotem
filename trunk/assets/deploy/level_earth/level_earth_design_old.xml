@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Level>
+	<!-- Start stage Debug x="20" y="400" -->
+	<!-- Up-down platforms stage Debug x="1400" y="300" -->
+	<!-- Trap stage Debug x="3000" y="400" -->
+	<!-- Pause stage Debug x="4600" y="400" -->
+	<!-- Player crashing stage Debug x="5400" y="400" -->
+	<!-- Finish game stage debug x="8000" y="400" -->
+	
+	<Start x="20" y="400"/>
+	
+<!-- Start stage Debug x="20" y="400" -->
+	<!--<Platform x="0" y="7.4" width="100000" height="2">
+		<Behaviour type="Kill"/>
+	</Platform>
+	-->
+	<Platform texture="quadruple_block_1" x="1" y = "6">
+		<Behaviour type="Animation"/>
+	</Platform>
+
+	<Platform texture="triple_block_2" x="6" y = "6">
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="triple_block_2" x="8" y = "5">
+		<Behaviour type="Animation"/>
+		<Behaviour type="Move" direction="RIGHT" shift="200" speed="0.3"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Platform texture="triple_block_2" x="-2" y = "1">
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="double_block_1" x="2" y = "2">
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="single_block_3" x="6" y = "2">
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="single_block_4" x="9" y = "2">
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="single_block_1" x="13" y = "1">
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="single_block_1" x="14" y = "2">
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="quadruple_block_2" x="15" y = "4">
+		<Behaviour type="Animation"/>
+		<Behaviour type="Move" direction="LEFT" shift="252" speed="0.3"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Platform texture="single_block_2" x="17" y = "3">
+		<Behaviour type="Animation"/>
+	</Platform>
+<!-- End of Start stage -->
+
+<!-- Up-down platforms stage Debug x="1400" y="300" -->
+	<Platform texture="quadruple_block_1" x="24" y = "6">
+		<Behaviour type="Animation"/>
+		<Behaviour type="Move" direction="UP" shift="500" speed="0.5"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Platform texture="triple_block_vertical_1" x="28" y = "4">
+		<Behaviour type="Animation"/>
+		<Behaviour type="Move" direction="UP" shift="320" speed="0.8"/>
+	</Platform>
+
+	<Platform texture="double_block_2" x="32" y = "1">
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="double_block_2" x="34" y = "3">
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="double_block_2" x="32" y = "5">
+		<Behaviour type="Animation"/>
+	</Platform>
+<!-- End of Up-down platforms stage -->
+	
+<!-- Trap stage Debug x="3000" y="400" -->
+	<Platform texture="triple_block_3" x="37" y = "5">
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="triple_block_3" x="42" y = "5">
+		<Behaviour type="Animation"/>
+		<Behaviour type="Move" direction="RIGHT" shift="600" speed="0.6"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Platform texture="quadruple_block_2" x="42" y = "3">
+		<Behaviour type="Animation"/>
+		<Behaviour type="Move" direction="UP" shift="200" speed="0.6"/>
+		<Behaviour type="Move" direction="RIGHT" shift="350" speed="0.7"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Platform texture="double_block_1" x="49" y = "1">
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="single_block_4" x="53" y = "2">
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="double_block_2" x="51" y = "4">
+		<Behaviour type="Animation"/>
+	</Platform>
+<!-- End of Trap stage -->
+	
+<!-- Pause stage Debug x="4600" y="400" -->
+	<!-- bottom row -->
+	
+	<!-- dummy platform, for collider only -->
+	<Platform x="60.5" y="5">
+		<Behaviour type="SolidObstacle" width="12" height="0.66"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_3" x="56" y="5">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_2" x="59" y="5">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_1" x="62" y="5">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_4" x="65" y="5">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+
+	<!-- up row -->
+	<Platform texture="single_block_1" x="56" y ="2">
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="single_block_2" x="60.008" y = "2">
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="single_block_3" x="64.018" y = "2">
+		<Behaviour type="Animation"/>
+	</Platform>
+<!-- End of Pause stage -->
+
+<!-- Player crashing stage Debug x="5400" y="400" -->
+	<!-- first pair -->
+	<Platform texture="double_block_2" x="68" y = "3">
+		<Behaviour type="Animation"/>
+		<Behaviour type="Move" direction="RIGHT" shift="250" speed="0.3"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Platform texture="triple_block_vertical_1" x="73" y = "-2">
+		<Behaviour type="Animation"/>
+		<Behaviour type="Move" direction="DOWN" shift="315" speed="0.5"/>
+		<Behaviour type="Kill" collisionSide="BOTTOM" />
+	</Platform>
+	
+	<Platform texture="triple_block_vertical_1" x="73" y = "5">
+		<Behaviour type="Animation"/>
+		<Behaviour type="Move" direction="UP" shift="315" speed="0.5"/>
+	</Platform>
+	
+	<!-- sec pair -->
+	<Platform texture="double_block_1" x="75" y = "3">
+		<Behaviour type="Animation"/>
+		<Behaviour type="Move" direction="RIGHT" shift="250" speed="0.3"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Platform texture="triple_block_vertical_1" x="80" y = "-2">
+		<Behaviour type="Animation"/>
+		<Behaviour type="Move" direction="DOWN" shift="315" speed="0.5"/>
+		<Behaviour type="Kill" collisionSide="BOTTOM" />
+	</Platform>
+	
+	<Platform texture="triple_block_vertical_1" x="80" y = "5">
+		<Behaviour type="Animation"/>
+		<Behaviour type="Move" direction="UP" shift="315" speed="0.5"/>
+	</Platform>
+	
+	<!-- third pair -->
+	<Platform texture="double_block_2" x="82" y = "3">
+		<Behaviour type="Animation"/>
+		<Behaviour type="Move" direction="RIGHT" shift="250" speed="0.3"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+	
+	<Platform texture="triple_block_vertical_1" x="87" y = "-2">
+		<Behaviour type="Animation"/>
+		<Behaviour type="Move" direction="DOWN" shift="315" speed="0.5"/>
+		<Behaviour type="Kill" collisionSide="BOTTOM" />
+	</Platform>
+	
+	<Platform texture="triple_block_vertical_1" x="87" y = "5">
+		<Behaviour type="Animation"/>
+		<Behaviour type="Move" direction="UP" shift="315" speed="0.5"/>
+	</Platform>
+	
+	<!-- end platform -->
+	<Platform texture="double_block_1" x="89" y = "3">
+		<Behaviour type="Animation"/>
+		<Behaviour type="Move" direction="RIGHT" shift="250" speed="0.3"/>
+		<Behaviour type="Transport"/>
+	</Platform>
+<!-- End of Player craching stage -->
+
+<!-- Finish Platform stage debug x="8000" y="400" -->
+	<!-- dummy platform, for collider only -->
+	<Platform x="100.5" y="6">
+		<Behaviour type="SolidObstacle" width="12" height="0.66"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_3" x="96" y="6">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_2" x="99" y="6">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_1" x="102" y="6">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_4" x="105" y="6">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Item x="101" y = "4.25">
+		<Behaviour type="TransparentObstacle" width="1" height="12"/>
+		<Behaviour type="ChangeLevelStage" newStage="Boss" />
+	</Item>
+	
+	<Item x="4" y = "1" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "life" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddLife"/>
+	</Item>
+	
+	<Item x="2" y = "1" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_earth" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Item x="13" y = "0.2" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_earth" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Item x="24" y = "1" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_earth" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Item x="32" y = "4" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_earth" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Item x="45" y = "1" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_earth" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Item x="56" y = "1" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_earth" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Item x="60.008" y = "1" width="0.5" height="0.5">
+		<Behaviour type="Animation" name = "ammo_earth" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Item x="64.018" y = "1" width="0.5" height="0.5">
+		<Behaviour type="Animation" name="ammo_earth" loop="true"/>
+		<Behaviour type="Disappear" time="2"/>
+		<Behaviour type="AddAmmo"/>
+	</Item>
+	
+	<Item texture="checkpoint_earth" x="60.008" y = "4.25" width="1" height="12">
+		<Behaviour type="Animation" collisionSide="ALL" repeat="false"/>
+		<Behaviour type="Checkpoint"/>
+	</Item>
+	
+<!-- Boss stage -->
+	<BossStageStart x="110" y="0"/>
+	
+	<!-- dummy platform, for collider only -->
+	<Platform x="115" y="6">
+		<Behaviour type="SolidObstacle" width="17" height="0.66"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_3" x="108" y="6">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_4" x="111" y="6">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_1" x="114" y="6">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_2" x="117" y="6">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Boss name="earth_boss" x="119.5" y="3.4" width="100" height="450">
+		
+	</Boss>
+	
+	<Platform texture="triple_block_open_3" x="120" y="6">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_1" x="123" y="6">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+</Level>

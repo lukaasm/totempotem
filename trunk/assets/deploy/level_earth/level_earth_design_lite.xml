@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Level>
+	<!-- Start stage Debug x="20" y="400" -->
+	<!-- Up-down platforms stage Debug x="1400" y="300" -->
+	<!-- Trap stage Debug x="3000" y="400" -->
+	<!-- Pause stage Debug x="4600" y="400" -->
+	<!-- Player crashing stage Debug x="5400" y="400" -->
+	<!-- Finish game stage debug x="8000" y="400" -->
+	
+	<Start x="8000" y="400"/>
+
+<!-- Finish Platform stage debug x="8000" y="400" -->
+	<!-- dummy platform, for collider only -->
+	<Platform x="100.5" y="6">
+		<Behaviour type="SolidObstacle" width="12" height="0.66"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_3" x="96" y="6">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_2" x="99" y="6">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_1" x="102" y="6">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_4" x="105" y="6">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Item x="101" y = "4.25">
+		<Behaviour type="TransparentObstacle" width="1" height="12"/>
+		<Behaviour type="ChangeLevelStage" newStage="Boss" />
+	</Item>
+	
+<!-- Boss stage -->
+	<BossStageStart x="110" y="0"/>
+	
+	<!-- dummy platform, for collider only -->
+	<Platform x="115" y="6">
+		<Behaviour type="SolidObstacle" width="17" height="0.66"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_3" x="108" y="6">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_4" x="111" y="6">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_1" x="114" y="6">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_2" x="117" y="6">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Boss name="earth_boss" x="119.5" y="3.4" width="100" height="450">
+	</Boss>
+	
+	<Platform texture="triple_block_open_3" x="120" y="6">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+	<Platform texture="triple_block_open_1" x="123" y="6">
+		<Behaviour type="TransparentObstacle" height="0.7"/>
+		<Behaviour type="Animation"/>
+	</Platform>
+	
+</Level>

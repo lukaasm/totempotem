@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0fca4ab8b6f7a3d5d6f517148f07e02f:2/2$ -->
+<TextureAtlas imagePath="level_fire_background_1.png">
+    <SubTexture name="background 1" x="0" y="0" width="1501" height="768"/>
+    <SubTexture name="background 2" x="0" y="768" width="1501" height="768"/>
+    <SubTexture name="sun" x="1501" y="0" width="369" height="309"/>
+</TextureAtlas>

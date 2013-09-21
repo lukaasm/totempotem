@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5cf4c573717279daf44e9deda316b361:1/1$ -->
+<TextureAtlas imagePath="level_earth_background.png">
+    <SubTexture name="cloud_earth_1" x="846" y="677" width="504" height="167"/>
+    <SubTexture name="cloud_earth_2" x="507" y="972" width="295" height="127"/>
+    <SubTexture name="cloud_earth_3" x="1765" y="1" width="128" height="86"/>
+    <SubTexture name="cloud_earth_4" x="507" y="844" width="296" height="127"/>
+    <SubTexture name="cloud_earth_5" x="507" y="972" width="295" height="127"/>
+    <SubTexture name="cloud_earth_6" x="1" y="1220" width="381" height="212"/>
+    <SubTexture name="cloud_earth_7" x="507" y="673" width="338" height="170"/>
+    <SubTexture name="cloud_earth_8" x="883" y="423" width="588" height="253"/>
+    <SubTexture name="sun (001)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (002)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (003)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (004)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (005)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (006)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (007)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (008)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (009)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (010)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (011)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (012)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (013)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (014)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (015)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (016)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (017)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (018)" x="1150" y="1433" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (019)" x="767" y="1433" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (020)" x="384" y="1601" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (021)" x="384" y="1220" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (022)" x="1" y="1433" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (023)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (024)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (025)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (026)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (027)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (028)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (029)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (030)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (031)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (032)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (033)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (034)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (035)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (036)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (037)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (038)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (039)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (040)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (041)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (042)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (043)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (044)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (045)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (046)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (047)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (048)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (049)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (050)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (051)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (052)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (053)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (054)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (055)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (056)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (057)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (058)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (059)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (060)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (061)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (062)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (063)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (064)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (065)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (066)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (067)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (068)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (069)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (070)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (071)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (072)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (073)" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (074)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (075)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (076)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (077)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (078)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (079)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun (080)" x="1533" y="1097" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="sun" x="1533" y="1478" width="382" height="380" frameX="-82" frameY="-35" frameWidth="1026" frameHeight="770"/>
+    <SubTexture name="tree1" x="883" y="1" width="881" height="421"/>
+    <SubTexture name="tree2" x="1472" y="423" width="507" height="377"/>
+    <SubTexture name="tree3" x="1" y="1" width="881" height="671"/>
+    <SubTexture name="tree4" x="1" y="673" width="505" height="546"/>
+    <SubTexture name="tree5" x="1351" y="801" width="463" height="295"/>
+    <SubTexture name="tree6" x="804" y="845" width="421" height="587"/>
+</TextureAtlas>

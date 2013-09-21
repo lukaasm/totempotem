@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:cf82c74f4db9ac5477a1ec7d7d1fa6d2:1/4$ -->
+<TextureAtlas imagePath="level_earth_boss_0.png">
+    <SubTexture name="attack fist0008" x="1" y="664" width="528" height="618" frameX="-345" frameY="-55" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0009" x="1" y="664" width="528" height="618" frameX="-345" frameY="-55" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0010" x="1509" y="1" width="538" height="548" frameX="-345" frameY="-125" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0028" x="1358" y="550" width="266" height="438" frameX="-346" frameY="-235" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0029" x="1358" y="550" width="266" height="438" frameX="-346" frameY="-235" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0030" x="1358" y="550" width="266" height="438" frameX="-346" frameY="-235" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0031" x="1358" y="550" width="266" height="438" frameX="-346" frameY="-235" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0032" x="1358" y="550" width="266" height="438" frameX="-346" frameY="-235" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="dying0002" x="990" y="1266" width="518" height="598" frameX="-345" frameY="-67" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="dying0003" x="346" y="1" width="464" height="612" frameX="-345" frameY="-53" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="dying0004" x="1" y="1283" width="388" height="612" frameX="-345" frameY="-53" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="dying0005" x="390" y="1283" width="304" height="612" frameX="-391" frameY="-53" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="dying0006" x="695" y="1266" width="294" height="606" frameX="-395" frameY="-59" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="dying0015" x="1509" y="1500" width="266" height="362" frameX="-454" frameY="-303" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="dying0020" x="1077" y="1061" width="350" height="204" frameX="-416" frameY="-461" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="dying0021" x="857" y="1873" width="280" height="172" frameX="-449" frameY="-493" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="dying0022" x="1" y="1896" width="206" height="138" frameX="-483" frameY="-527" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="dying0023" x="658" y="1896" width="198" height="98" frameX="-483" frameY="-567" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="dying0024" x="1626" y="1939" width="272" height="56" frameX="-444" frameY="-609" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="dying0025" x="1" y="2035" width="72" height="10" frameX="-483" frameY="-655" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="dying0026" x="470" y="657" width="3" height="3" frameX="0" frameY="0" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="idle0013" x="1776" y="1500" width="270" height="438" frameX="-345" frameY="-233" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="idle0014" x="1776" y="1500" width="270" height="438" frameX="-345" frameY="-233" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="idle0015" x="1776" y="1500" width="270" height="438" frameX="-345" frameY="-233" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="idle0016" x="1776" y="1500" width="270" height="438" frameX="-345" frameY="-233" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="idle0017" x="1776" y="1500" width="270" height="438" frameX="-345" frameY="-233" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="idle0018" x="1776" y="1500" width="270" height="438" frameX="-345" frameY="-233" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="idle0025" x="1776" y="1500" width="270" height="438" frameX="-345" frameY="-233" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="idle0026" x="1776" y="1500" width="270" height="438" frameX="-345" frameY="-233" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="idle0027" x="1776" y="1500" width="270" height="438" frameX="-345" frameY="-233" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="idle0028" x="1776" y="1500" width="270" height="438" frameX="-345" frameY="-233" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="idle0029" x="1776" y="1500" width="270" height="438" frameX="-345" frameY="-233" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="idle0030" x="1776" y="1500" width="270" height="438" frameX="-345" frameY="-233" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="nails" x="470" y="614" width="129" height="42" frameX="-83" frameY="-645" frameWidth="315" frameHeight="742"/>
+    <SubTexture name="nails0001" x="346" y="614" width="123" height="48" frameX="-89" frameY="-642" frameWidth="315" frameHeight="742"/>
+    <SubTexture name="nails0002" x="208" y="2007" width="129" height="40" frameX="-84" frameY="-647" frameWidth="315" frameHeight="742"/>
+    <SubTexture name="nails0003" x="658" y="1995" width="189" height="50" frameX="-54" frameY="-640" frameWidth="315" frameHeight="742"/>
+    <SubTexture name="nails0004" x="468" y="1896" width="189" height="102" frameX="-54" frameY="-596" frameWidth="315" frameHeight="742"/>
+    <SubTexture name="nails0005" x="1398" y="1865" width="227" height="178" frameX="-44" frameY="-512" frameWidth="315" frameHeight="742"/>
+    <SubTexture name="nails0019" x="1138" y="1865" width="259" height="178" frameX="-28" frameY="-519" frameWidth="315" frameHeight="742"/>
+    <SubTexture name="nails0020" x="208" y="1896" width="259" height="110" frameX="-28" frameY="-587" frameWidth="315" frameHeight="742"/>
+    <SubTexture name="nails0021" x="1356" y="989" width="259" height="54" frameX="-28" frameY="-643" frameWidth="315" frameHeight="742"/>
+    <SubTexture name="nails0022" x="1356" y="989" width="259" height="54" frameX="-28" frameY="-643" frameWidth="315" frameHeight="742"/>
+    <SubTexture name="nails0026" x="470" y="657" width="3" height="3" frameX="0" frameY="0" frameWidth="315" frameHeight="742"/>
+    <SubTexture name="shaking" x="429" y="2007" width="94" height="33" frameX="-66" frameY="-542" frameWidth="232" frameHeight="617"/>
+    <SubTexture name="shaking0001" x="338" y="2007" width="90" height="37" frameX="-70" frameY="-540" frameWidth="232" frameHeight="617"/>
+    <SubTexture name="shaking0002" x="600" y="614" width="94" height="31" frameX="-67" frameY="-544" frameWidth="232" frameHeight="617"/>
+    <SubTexture name="wounded end0002" x="1" y="1" width="344" height="662" frameX="-345" frameY="-11" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="wounded end0003" x="1626" y="550" width="418" height="474" frameX="-207" frameY="-199" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="wounded end0004" x="1626" y="550" width="418" height="474" frameX="-207" frameY="-199" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="wounded start0004" x="1077" y="610" width="278" height="450" frameX="-344" frameY="-223" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="wounded start0005" x="1077" y="610" width="278" height="450" frameX="-344" frameY="-223" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="wounded start0006" x="1626" y="1025" width="418" height="474" frameX="-206" frameY="-199" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="wounded start0007" x="1626" y="1025" width="418" height="474" frameX="-206" frameY="-199" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="wounded start0008" x="530" y="657" width="546" height="608" frameX="-344" frameY="-65" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="wounded start0009" x="530" y="657" width="546" height="608" frameX="-344" frameY="-65" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="wounded start0010" x="811" y="1" width="546" height="608" frameX="-344" frameY="-65" frameWidth="932" frameHeight="742"/>
+</TextureAtlas>

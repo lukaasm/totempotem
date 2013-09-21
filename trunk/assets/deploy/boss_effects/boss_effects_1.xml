@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:62b0d99973ac1e527d48cfc17bc3d5f6:2/4$ -->
+<TextureAtlas imagePath="boss_effects_1.png">
+    <SubTexture name="clouds loop 002" x="1" y="390" width="1044" height="386" frameX="-35" frameY="-358" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds loop 003" x="1" y="777" width="1044" height="386" frameX="-35" frameY="-358" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds loop 004" x="1" y="1217" width="1044" height="386" frameX="-35" frameY="-357" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds loop 005" x="1" y="1604" width="1044" height="386" frameX="-35" frameY="-357" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds loop 006" x="1" y="1" width="1044" height="388" frameX="-34" frameY="-355" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds loop left 006" x="1" y="1" width="1044" height="388" frameX="-34" frameY="-355" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds loop left 007" x="1" y="1604" width="1044" height="386" frameX="-35" frameY="-357" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds loop left 008" x="1" y="1217" width="1044" height="386" frameX="-35" frameY="-357" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds loop left 009" x="1" y="777" width="1044" height="386" frameX="-35" frameY="-358" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds loop left 010" x="1" y="390" width="1044" height="386" frameX="-35" frameY="-358" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 001" x="1751" y="475" width="270" height="96" frameX="-390" frameY="-635" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 002" x="1561" y="1088" width="356" height="128" frameX="-350" frameY="-603" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 003" x="1561" y="927" width="380" height="160" frameX="-338" frameY="-572" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 004" x="1046" y="927" width="514" height="186" frameX="-286" frameY="-547" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 005" x="1046" y="704" width="660" height="222" frameX="-229" frameY="-512" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 006" x="1046" y="475" width="704" height="228" frameX="-206" frameY="-507" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 007" x="1046" y="240" width="748" height="234" frameX="-184" frameY="-502" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 008" x="1046" y="1" width="790" height="238" frameX="-164" frameY="-499" frameWidth="1118" frameHeight="768"/>
+</TextureAtlas>

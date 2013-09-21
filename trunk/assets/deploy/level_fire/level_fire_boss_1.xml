@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0fb829425008742f758fdb83595d9d90:2/5$ -->
+<TextureAtlas imagePath="level_fire_boss_1.png">
+    <SubTexture name="attack fire0027" x="2" y="2" width="536" height="585" frameX="-14" frameY="-152" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack fire0037" x="1180" y="417" width="376" height="425" frameX="-126" frameY="-229" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack fire0038" x="1180" y="417" width="376" height="425" frameX="-126" frameY="-229" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0001" x="1566" y="1038" width="430" height="433" frameX="-60" frameY="-204" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0002" x="1566" y="1038" width="430" height="433" frameX="-60" frameY="-204" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0009" x="1088" y="1116" width="476" height="549" frameX="-292" frameY="-184" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0010" x="1566" y="2" width="476" height="549" frameX="-292" frameY="-184" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0012" x="1566" y="1473" width="330" height="549" frameX="-293" frameY="-183" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0013" x="460" y="1150" width="318" height="551" frameX="-292" frameY="-184" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0014" x="778" y="563" width="318" height="551" frameX="-292" frameY="-184" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0015" x="778" y="563" width="318" height="551" frameX="-292" frameY="-184" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0016" x="860" y="2" width="318" height="551" frameX="-292" frameY="-184" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0017" x="860" y="2" width="318" height="551" frameX="-292" frameY="-184" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0018" x="460" y="1150" width="318" height="551" frameX="-292" frameY="-184" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0019" x="460" y="1150" width="318" height="551" frameX="-292" frameY="-184" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0020" x="460" y="1150" width="318" height="551" frameX="-292" frameY="-184" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0021" x="780" y="1116" width="306" height="551" frameX="-292" frameY="-184" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0022" x="458" y="589" width="318" height="559" frameX="-292" frameY="-183" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0023" x="780" y="1116" width="306" height="551" frameX="-292" frameY="-184" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0024" x="458" y="589" width="318" height="559" frameX="-292" frameY="-183" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0025" x="458" y="589" width="318" height="559" frameX="-292" frameY="-183" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0026" x="540" y="2" width="318" height="559" frameX="-292" frameY="-183" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0032" x="2" y="1156" width="456" height="561" frameX="-127" frameY="-195" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0036" x="2" y="589" width="454" height="565" frameX="-128" frameY="-196" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0037" x="2" y="589" width="454" height="565" frameX="-128" frameY="-196" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0038" x="2" y="589" width="454" height="565" frameX="-128" frameY="-196" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0039" x="2" y="589" width="454" height="565" frameX="-128" frameY="-196" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0040" x="2" y="589" width="454" height="565" frameX="-128" frameY="-196" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0041" x="2" y="589" width="454" height="565" frameX="-128" frameY="-196" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0045" x="1566" y="1038" width="430" height="433" frameX="-60" frameY="-204" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0046" x="1566" y="1038" width="430" height="433" frameX="-60" frameY="-204" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0047" x="1566" y="1038" width="430" height="433" frameX="-60" frameY="-204" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack sting0048" x="1566" y="1038" width="430" height="433" frameX="-60" frameY="-204" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="dying" x="780" y="1669" width="324" height="365" frameX="-310" frameY="-31" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="dying0001" x="780" y="1669" width="324" height="365" frameX="-310" frameY="-31" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="dying0002" x="780" y="1669" width="324" height="365" frameX="-310" frameY="-31" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="dying0003" x="780" y="1669" width="324" height="365" frameX="-310" frameY="-31" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="dying0004" x="780" y="1669" width="324" height="365" frameX="-310" frameY="-31" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0003" x="1180" y="2" width="384" height="413" frameX="-107" frameY="-201" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0004" x="1180" y="2" width="384" height="413" frameX="-107" frameY="-201" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0024" x="1558" y="553" width="482" height="483" frameX="-12" frameY="-193" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0045" x="1180" y="2" width="384" height="413" frameX="-107" frameY="-201" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0046" x="1180" y="2" width="384" height="413" frameX="-107" frameY="-201" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="wounded begin0005" x="2" y="1719" width="432" height="285" frameX="-330" frameY="-115" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="wounded begin0006" x="2" y="1719" width="432" height="285" frameX="-330" frameY="-115" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="wounded begin0007" x="2" y="1719" width="432" height="285" frameX="-330" frameY="-115" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="wounded end (1)" x="1106" y="1667" width="324" height="365" frameX="-310" frameY="-32" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="wounded end (2)" x="1106" y="1667" width="324" height="365" frameX="-310" frameY="-32" frameWidth="800" frameHeight="777"/>
+</TextureAtlas>

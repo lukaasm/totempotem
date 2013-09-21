@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:27da3c440c90170576a5644ca2316d98:1/1$ -->
+<TextureAtlas imagePath="loading.png">
+    <SubTexture name="loading bar earth" x="0" y="1563" width="512" height="26"/>
+    <SubTexture name="loading bar fire" x="0" y="1536" width="512" height="27"/>
+    <SubTexture name="loading boss fight1" x="1024" y="768" width="1024" height="768"/>
+    <SubTexture name="loading boss fight2" x="0" y="768" width="1024" height="768"/>
+    <SubTexture name="loading screen 1" x="1024" y="0" width="1024" height="768"/>
+    <SubTexture name="loading screen 2" x="0" y="0" width="1024" height="768"/>
+</TextureAtlas>

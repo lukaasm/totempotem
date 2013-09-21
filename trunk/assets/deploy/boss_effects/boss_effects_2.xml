@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:62b0d99973ac1e527d48cfc17bc3d5f6:3/4$ -->
+<TextureAtlas imagePath="boss_effects_2.png">
+    <SubTexture name="clouds loop 001" x="1" y="1" width="1044" height="384" frameX="-35" frameY="-360" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds loop left 011" x="1" y="1" width="1044" height="384" frameX="-35" frameY="-360" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 023" x="1" y="1521" width="1034" height="364" frameX="-38" frameY="-386" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 024" x="1" y="1150" width="1036" height="370" frameX="-36" frameY="-380" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 025" x="1" y="771" width="1038" height="378" frameX="-34" frameY="-372" frameWidth="1118" frameHeight="768"/>
+    <SubTexture name="clouds start 026" x="1" y="386" width="1040" height="384" frameX="-32" frameY="-366" frameWidth="1118" frameHeight="768"/>
+</TextureAtlas>

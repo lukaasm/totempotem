@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0fb829425008742f758fdb83595d9d90:4/5$ -->
+<TextureAtlas imagePath="level_fire_boss_3.png">
+    <SubTexture name="attack fire0023" x="486" y="1433" width="418" height="475" frameX="-69" frameY="-17" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="attack fire0024" x="486" y="1433" width="418" height="475" frameX="-69" frameY="-17" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0005" x="2" y="2" width="482" height="475" frameX="-12" frameY="-201" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0006" x="2" y="2" width="482" height="475" frameX="-12" frameY="-201" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0010" x="906" y="1433" width="482" height="473" frameX="-12" frameY="-203" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0011" x="906" y="1433" width="482" height="473" frameX="-12" frameY="-203" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0012" x="486" y="2" width="482" height="475" frameX="-12" frameY="-201" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0013" x="970" y="2" width="482" height="475" frameX="-12" frameY="-201" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0014" x="1454" y="2" width="482" height="475" frameX="-12" frameY="-201" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0015" x="2" y="479" width="482" height="475" frameX="-12" frameY="-201" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0016" x="2" y="956" width="482" height="475" frameX="-12" frameY="-201" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0017" x="2" y="1433" width="482" height="475" frameX="-12" frameY="-201" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0018" x="486" y="479" width="482" height="475" frameX="-12" frameY="-201" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0019" x="970" y="479" width="482" height="475" frameX="-12" frameY="-201" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0020" x="1454" y="479" width="482" height="475" frameX="-12" frameY="-201" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0021" x="1454" y="479" width="482" height="475" frameX="-12" frameY="-201" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0022" x="1454" y="479" width="482" height="475" frameX="-12" frameY="-201" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0023" x="970" y="956" width="482" height="473" frameX="-12" frameY="-203" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0025" x="1454" y="956" width="482" height="473" frameX="-12" frameY="-203" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0026" x="1454" y="956" width="482" height="473" frameX="-12" frameY="-203" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0027" x="1454" y="956" width="482" height="473" frameX="-12" frameY="-203" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0028" x="1454" y="956" width="482" height="473" frameX="-12" frameY="-203" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0029" x="486" y="956" width="482" height="475" frameX="-12" frameY="-201" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0040" x="1390" y="1431" width="482" height="473" frameX="-12" frameY="-203" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0041" x="1390" y="1431" width="482" height="473" frameX="-12" frameY="-203" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0042" x="2" y="2" width="482" height="475" frameX="-12" frameY="-201" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0043" x="2" y="2" width="482" height="475" frameX="-12" frameY="-201" frameWidth="800" frameHeight="777"/>
+    <SubTexture name="resting0044" x="2" y="2" width="482" height="475" frameX="-12" frameY="-201" frameWidth="800" frameHeight="777"/>
+</TextureAtlas>

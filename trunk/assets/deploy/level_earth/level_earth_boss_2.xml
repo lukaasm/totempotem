@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:cf82c74f4db9ac5477a1ec7d7d1fa6d2:3/4$ -->
+<TextureAtlas imagePath="level_earth_boss_2.png">
+    <SubTexture name="attack fist0004" x="1539" y="1563" width="278" height="450" frameX="-345" frameY="-223" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0005" x="1539" y="1563" width="278" height="450" frameX="-345" frameY="-223" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0006" x="937" y="450" width="416" height="474" frameX="-208" frameY="-199" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0007" x="937" y="450" width="416" height="474" frameX="-208" frameY="-199" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0011" x="1" y="1" width="578" height="368" frameX="-29" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0012" x="1" y="370" width="502" height="368" frameX="-105" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0013" x="580" y="1" width="502" height="378" frameX="-105" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0020" x="1575" y="689" width="404" height="430" frameX="-203" frameY="-262" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0021" x="1" y="1100" width="382" height="442" frameX="-225" frameY="-261" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0033" x="872" y="1376" width="298" height="438" frameX="-346" frameY="-247" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0034" x="872" y="1376" width="298" height="438" frameX="-346" frameY="-247" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0035" x="872" y="1376" width="298" height="438" frameX="-346" frameY="-247" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0036" x="872" y="1376" width="298" height="438" frameX="-346" frameY="-247" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0037" x="872" y="1376" width="298" height="438" frameX="-346" frameY="-247" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack fist0038" x="872" y="1376" width="298" height="438" frameX="-346" frameY="-247" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0004" x="1539" y="1563" width="278" height="450" frameX="-344" frameY="-223" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0005" x="1539" y="1563" width="278" height="450" frameX="-344" frameY="-223" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0006" x="937" y="450" width="416" height="474" frameX="-207" frameY="-199" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0007" x="937" y="450" width="416" height="474" frameX="-207" frameY="-199" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0008" x="1190" y="1368" width="348" height="444" frameX="-345" frameY="-229" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0009" x="1190" y="1368" width="348" height="444" frameX="-345" frameY="-229" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0010" x="434" y="751" width="384" height="444" frameX="-344" frameY="-229" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0011" x="504" y="380" width="432" height="370" frameX="-174" frameY="-309" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0012" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0013" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0014" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0015" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0016" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0017" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0018" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0019" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0020" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0021" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0022" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0023" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0024" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0025" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0026" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0027" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0028" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0029" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0030" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0031" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0032" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0033" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0034" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0035" x="1" y="739" width="432" height="360" frameX="-174" frameY="-319" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0036" x="1575" y="689" width="404" height="430" frameX="-202" frameY="-262" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0037" x="1575" y="689" width="404" height="430" frameX="-202" frameY="-262" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="attack ground0038" x="1563" y="1120" width="358" height="442" frameX="-248" frameY="-261" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="dying0010" x="1584" y="1" width="436" height="452" frameX="-358" frameY="-213" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="dying0011" x="1190" y="925" width="372" height="442" frameX="-390" frameY="-223" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="dying0013" x="1354" y="450" width="220" height="412" frameX="-470" frameY="-253" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="dying0019" x="1575" y="454" width="414" height="234" frameX="-386" frameY="-431" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="nails0018" x="384" y="1196" width="255" height="246" frameX="-29" frameY="-451" frameWidth="315" frameHeight="742"/>
+    <SubTexture name="resting0010" x="292" y="1543" width="302" height="468" frameX="-330" frameY="-205" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="resting0011" x="292" y="1543" width="302" height="468" frameX="-330" frameY="-205" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="resting0012" x="292" y="1543" width="302" height="468" frameX="-330" frameY="-205" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="resting0013" x="1" y="1543" width="290" height="474" frameX="-330" frameY="-206" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="resting0016" x="595" y="1443" width="276" height="454" frameX="-344" frameY="-230" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="resting0017" x="595" y="1443" width="276" height="454" frameX="-344" frameY="-230" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="victory0001" x="1083" y="1" width="500" height="448" frameX="-210" frameY="-225" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="victory0002" x="1083" y="1" width="500" height="448" frameX="-210" frameY="-225" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="victory0003" x="1083" y="1" width="500" height="448" frameX="-210" frameY="-225" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="victory0004" x="1083" y="1" width="500" height="448" frameX="-210" frameY="-225" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="victory0005" x="1083" y="1" width="500" height="448" frameX="-210" frameY="-225" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="victory0006" x="1083" y="1" width="500" height="448" frameX="-210" frameY="-225" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="victory0007" x="1083" y="1" width="500" height="448" frameX="-210" frameY="-225" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="victory0008" x="1083" y="1" width="500" height="448" frameX="-210" frameY="-225" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="victory0009" x="1083" y="1" width="500" height="448" frameX="-210" frameY="-225" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="wounded end0005" x="819" y="925" width="370" height="450" frameX="-237" frameY="-223" frameWidth="932" frameHeight="742"/>
+    <SubTexture name="wounded end0006" x="819" y="925" width="370" height="450" frameX="-237" frameY="-223" frameWidth="932" frameHeight="742"/>
+</TextureAtlas>
